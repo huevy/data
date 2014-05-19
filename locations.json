@@ -193,5 +193,15 @@
     "name": "Хуевая Марьинка",
     "screen_name": "hyeva_maryinka",
     "location": "Марьинка, Донецкая область, Украина"
+  },
+  "hu_bankova": {
+    "name": "Хуйова Банкова",
+    "screen_name": "hu_bankova",
+    "location": "ул. Банковая, Киев, Украина"
+  },
+  "xuevaya_bavaria": {
+    "name": "Хуевая Бавария",
+    "screen_name": "xuevaya_bavaria",
+    "location": "пр. Ильича, Харьков, Украина"
   }
 }
