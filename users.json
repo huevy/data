@@ -1,0 +1,2354 @@
+[
+  {
+    "id": 2502000115,
+    "id_str": "2502000115",
+    "name": "Хуёвая Одесса",
+    "screen_name": "Hu_0dessa",
+    "location": "Одесса",
+    "description": "Хуёвые и не только твитты за любимый город",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1,
+    "friends_count": 5,
+    "listed_count": 4,
+    "created_at": "Sat May 17 16:40:59 +0000 2014",
+    "favourites_count": 8,
+    "utc_offset": 10800,
+    "time_zone": "Kyiv",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 124,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 18:59:31 +0000 2014",
+      "id": 468465994189787140,
+      "id_str": "468465994189787136",
+      "text": "Крутая нарезочка о наших бойцах под \"#Воинысвета\" https://t.co/CaAwWtUhye",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Воинысвета",
+            "indices": [
+              37,
+              48
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/CaAwWtUhye",
+            "expanded_url": "https://m.youtube.com/watch?v=u2RFvRDWwPk",
+            "display_url": "m.youtube.com/watch?v=u2RFvR…",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/467707750592819200/0uSRK36d_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/467707750592819200/0uSRK36d_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2502000115/1400345232",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2443806792,
+    "id_str": "2443806792",
+    "name": "Хуёвый Антрацит",
+    "screen_name": "m_crny",
+    "location": "Украина",
+    "description": "Всю жизнь жил в Антраците. Потом пришлось уехать в Украину.",
+    "url": "https://t.co/GR9gpfpawg",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/GR9gpfpawg",
+            "expanded_url": "https://bitly.com/ukrnews",
+            "display_url": "bitly.com/ukrnews",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 344,
+    "friends_count": 46,
+    "listed_count": 10,
+    "created_at": "Mon Apr 14 12:27:45 +0000 2014",
+    "favourites_count": 38,
+    "utc_offset": 10800,
+    "time_zone": "Baghdad",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 409,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 15:23:50 +0000 2014",
+      "id": 468411718184751100,
+      "id_str": "468411718184751104",
+      "text": "Над #Антрацит'ом летит истребитель! https://t.co/mfOZlCOfc7 (на самом деле фейк)",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Антрацит",
+            "indices": [
+              4,
+              13
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/mfOZlCOfc7",
+            "expanded_url": "https://www.google.com/maps/@48.1354459,39.0653715,740m/data=!3m1!1e3",
+            "display_url": "google.com/maps/@48.13544…",
+            "indices": [
+              36,
+              59
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/467038857834135553/oJTKdBvB_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/467038857834135553/oJTKdBvB_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2443806792/1399114782",
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 501829485,
+    "id_str": "501829485",
+    "name": "Хуёвый Київ",
+    "screen_name": "tombreadley",
+    "location": "",
+    "description": "Тимошенко, Порошенко, Ющенко, блядь, Симоненко, Шуфрич, Тигипко сука - все в Киеве. Заебали.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1766,
+    "friends_count": 225,
+    "listed_count": 29,
+    "created_at": "Fri Feb 24 14:33:32 +0000 2012",
+    "favourites_count": 1213,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3217,
+    "lang": "en",
+    "status": {
+      "created_at": "Mon May 19 18:45:24 +0000 2014",
+      "id": 468462444114108400,
+      "id_str": "468462444114108416",
+      "text": "Не, ну вы посмотрите, что себе позволяет эта русская шлюха Маркин. Благо в Одессе есть патриоты. Вышел знатный тролль http://t.co/glduz2H7Vb",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 6,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [],
+        "media": [
+          {
+            "id": 468462437600342000,
+            "id_str": "468462437600342016",
+            "indices": [
+              118,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/BoBQGt_IMAAavjG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BoBQGt_IMAAavjG.jpg",
+            "url": "http://t.co/glduz2H7Vb",
+            "display_url": "pic.twitter.com/glduz2H7Vb",
+            "expanded_url": "http://twitter.com/tombreadley/status/468462444114108416/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 339,
+                "h": 237,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 599,
+                "h": 419,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 503,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/466876459806900224/ilSktwkH_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/466876459806900224/ilSktwkH_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/501829485/1399325053",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 515546426,
+    "id_str": "515546426",
+    "name": "Хуёвый Минск",
+    "screen_name": "Shok123",
+    "location": "Minsk",
+    "description": "Да всё ...",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 415,
+    "friends_count": 72,
+    "listed_count": 13,
+    "created_at": "Mon Mar 05 14:57:15 +0000 2012",
+    "favourites_count": 218,
+    "utc_offset": 10800,
+    "time_zone": "Kyiv",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2005,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 19:22:37 +0000 2014",
+      "id": 468471809822957600,
+      "id_str": "468471809822957568",
+      "text": "@ExileUA Как то быстро полгорода отхапали, что-то тут не чисто ...",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": 468471489998897150,
+      "in_reply_to_status_id_str": "468471489998897152",
+      "in_reply_to_user_id": 2480356651,
+      "in_reply_to_user_id_str": "2480356651",
+      "in_reply_to_screen_name": "ExileUA",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "ExileUA",
+            "name": "Хуёвый Славянск",
+            "id": 2480356651,
+            "id_str": "2480356651",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/464041799195959296/ROEtf4g4_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/464041799195959296/ROEtf4g4_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2202126179,
+    "id_str": "2202126179",
+    "name": "Хуевый Алчевск",
+    "screen_name": "asagovsky",
+    "location": "Украина",
+    "description": "Горотдел диванной аналитики.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 210,
+    "friends_count": 31,
+    "listed_count": 9,
+    "created_at": "Sat Nov 30 18:56:56 +0000 2013",
+    "favourites_count": 152,
+    "utc_offset": 10800,
+    "time_zone": "Athens",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1254,
+    "lang": "uk",
+    "status": {
+      "created_at": "Mon May 19 18:29:12 +0000 2014",
+      "id": 468458364213927940,
+      "id_str": "468458364213927936",
+      "text": "RT @euromaidan: \"ООН не подтверждает получение запроса о суверенитете провозглашенной Луганской республики.\"\n\nАААААА",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 19 17:01:40 +0000 2014",
+        "id": 468436338195570700,
+        "id_str": "468436338195570688",
+        "text": "\"ООН не подтверждает получение запроса о суверенитете провозглашенной Луганской республики.\"\n\nАААААА",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 63,
+        "favorite_count": 21,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 63,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "euromaidan",
+            "name": "ЄВРОМАЙДАН",
+            "id": 2207788292,
+            "id_str": "2207788292",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/467038529973805057/NsrIQG78_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/467038529973805057/NsrIQG78_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2202126179/1400189075",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2240682219,
+    "id_str": "2240682219",
+    "name": "Хуёвая Борщага(Kiev)",
+    "screen_name": "MYkin82",
+    "location": "Kyiv",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 125,
+    "friends_count": 367,
+    "listed_count": 6,
+    "created_at": "Mon Dec 23 23:59:38 +0000 2013",
+    "favourites_count": 413,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3310,
+    "lang": "uk",
+    "status": {
+      "created_at": "Mon May 19 16:18:37 +0000 2014",
+      "id": 468425503658221600,
+      "id_str": "468425503658221570",
+      "text": "RT @Irunka_G: Согласитесь, прекрасно, что Юра Енакиевский, Царев, Олейник, Януковичи и Пшонки младшие до сих пор - народные депутаты Украин…",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 19 14:21:48 +0000 2014",
+        "id": 468396106033135600,
+        "id_str": "468396106033135617",
+        "text": "Согласитесь, прекрасно, что Юра Енакиевский, Царев, Олейник, Януковичи и Пшонки младшие до сих пор - народные депутаты Украины.",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 19,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 19,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "Irunka_G",
+            "name": "Irun",
+            "id": 337910217,
+            "id_str": "337910217",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/441334574497275904/uPEPPT5V_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/441334574497275904/uPEPPT5V_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2240682219/1399212547",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2368693591,
+    "id_str": "2368693591",
+    "name": "Хуёвый Харьков",
+    "screen_name": "xyevii_kharkov",
+    "location": "Песочин.",
+    "description": "Помощь нашим солдатам 5168 7423 1736 2659 Приватбанк.  Яндекс - 410012312490975.  Отчеты тут https://t.co/GgM0GwuDy0",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/GgM0GwuDy0",
+            "expanded_url": "https://www.facebook.com/xyeviikharkov",
+            "display_url": "facebook.com/xyeviikharkov",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 7671,
+    "friends_count": 72,
+    "listed_count": 103,
+    "created_at": "Sun Mar 02 10:38:09 +0000 2014",
+    "favourites_count": 15,
+    "utc_offset": 10800,
+    "time_zone": "Baghdad",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 3778,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 19:26:25 +0000 2014",
+      "id": 468472764786298900,
+      "id_str": "468472764786298880",
+      "text": "Короче, нас решили добить и сделать тупыми. На ictv Юля, у Шустера -Тигипко.",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/463385296415895552/WspAHHLO.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/463385296415895552/WspAHHLO.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/462736547930857473/KBTz5_Cg_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/462736547930857473/KBTz5_Cg_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2368693591/1399146253",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2431608848,
+    "id_str": "2431608848",
+    "name": "NeXyevyi London",
+    "screen_name": "htomyie",
+    "location": " London, of course",
+    "description": "той момент коли ніяковіючи розумієш що тепер діаспора - це ти",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 73,
+    "friends_count": 123,
+    "listed_count": 4,
+    "created_at": "Mon Apr 07 06:49:56 +0000 2014",
+    "favourites_count": 53,
+    "utc_offset": 7200,
+    "time_zone": "Amsterdam",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 316,
+    "lang": "en",
+    "status": {
+      "created_at": "Mon May 19 18:57:44 +0000 2014",
+      "id": 468465545319567360,
+      "id_str": "468465545319567360",
+      "text": "@mrCrimea @hyevayamoskva йумор у вас однако...чуть на поседел",
+      "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 468417971384107000,
+      "in_reply_to_status_id_str": "468417971384107009",
+      "in_reply_to_user_id": 2371781904,
+      "in_reply_to_user_id_str": "2371781904",
+      "in_reply_to_screen_name": "mrCrimea",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "mrCrimea",
+            "name": "Йуховый крымчанин",
+            "id": 2371781904,
+            "id_str": "2371781904",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "hyevayamoskva",
+            "name": "Хуевая Москва",
+            "id": 2472941377,
+            "id_str": "2472941377",
+            "indices": [
+              10,
+              24
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/453142470642384896/pOiVfu9a_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/453142470642384896/pOiVfu9a_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2431608848/1400190796",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2441604404,
+    "id_str": "2441604404",
+    "name": "Хуевый Луганск",
+    "screen_name": "peoplelugansk",
+    "location": "Луганск",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2820,
+    "friends_count": 0,
+    "listed_count": 43,
+    "created_at": "Sun Apr 13 11:50:43 +0000 2014",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1820,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 19:23:02 +0000 2014",
+      "id": 468471912143011840,
+      "id_str": "468471912143011841",
+      "text": "RT @lina_karolll: @peoplelugansk Он же бывший комсомолец. Туда брали не умных, а тех, кто верно в глаза смотреть умел.",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 19 19:21:18 +0000 2014",
+        "id": 468471475377561600,
+        "id_str": "468471475377561600",
+        "text": "@peoplelugansk Он же бывший комсомолец. Туда брали не умных, а тех, кто верно в глаза смотреть умел.",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": 468469674519588860,
+        "in_reply_to_status_id_str": "468469674519588864",
+        "in_reply_to_user_id": 2441604404,
+        "in_reply_to_user_id_str": "2441604404",
+        "in_reply_to_screen_name": "peoplelugansk",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "peoplelugansk",
+              "name": "Хуевый Луганск",
+              "id": 2441604404,
+              "id_str": "2441604404",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "lina_karolll",
+            "name": "ΞNσ▲ ",
+            "id": 580676113,
+            "id_str": "580676113",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "peoplelugansk",
+            "name": "Хуевый Луганск",
+            "id": 2441604404,
+            "id_str": "2441604404",
+            "indices": [
+              18,
+              32
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/464690537962811393/DvtkxZgf_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/464690537962811393/DvtkxZgf_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2441604404/1398962302",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2462772408,
+    "id_str": "2462772408",
+    "name": "Хуёвый Донецк",
+    "screen_name": "Hy_Donetsk",
+    "location": "Донецк",
+    "description": "Сепаратисты, ватники, гопники, продажные мусора, взяточники чиновники. Тебя тут убьют за Украинский символ. Все очень хуёво в Донецке.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 4548,
+    "friends_count": 320,
+    "listed_count": 54,
+    "created_at": "Fri Apr 25 06:20:47 +0000 2014",
+    "favourites_count": 102,
+    "utc_offset": 10800,
+    "time_zone": "Baghdad",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1604,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 08:57:51 +0000 2014",
+      "id": 468314582092873700,
+      "id_str": "468314582092873728",
+      "text": "@OlegAndrushko что за митинг?",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 468300624652959740,
+      "in_reply_to_status_id_str": "468300624652959744",
+      "in_reply_to_user_id": 2382849700,
+      "in_reply_to_user_id_str": "2382849700",
+      "in_reply_to_screen_name": "OlegAndrushko",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "OlegAndrushko",
+            "name": "Oleg Andrushko",
+            "id": 2382849700,
+            "id_str": "2382849700",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/459962093198778369/JdVbDuzo_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/459962093198778369/JdVbDuzo_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2472941377,
+    "id_str": "2472941377",
+    "name": "Хуевая Москва",
+    "screen_name": "hyevayamoskva",
+    "location": "",
+    "description": "Шовинизм, Империализм, продажные мусора,Огромные взяточники чиновники. Тебя тут убьют за Противоположное Киселеву мнение. Или как минимум перескажут его тексты",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 693,
+    "friends_count": 20,
+    "listed_count": 12,
+    "created_at": "Thu May 01 19:21:43 +0000 2014",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 297,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 19:03:50 +0000 2014",
+      "id": 468467079797293060,
+      "id_str": "468467079797293056",
+      "text": "@mrCrimea @htomyie дальше Керчи ни ногой)))",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": 468466812037120000,
+      "in_reply_to_status_id_str": "468466812037120001",
+      "in_reply_to_user_id": 2371781904,
+      "in_reply_to_user_id_str": "2371781904",
+      "in_reply_to_screen_name": "mrCrimea",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "mrCrimea",
+            "name": "Йуховый крымчанин",
+            "id": 2371781904,
+            "id_str": "2371781904",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "htomyie",
+            "name": "NeXyevyi London",
+            "id": 2431608848,
+            "id_str": "2431608848",
+            "indices": [
+              10,
+              18
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/461950998190104576/mXviQR6W_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/461950998190104576/mXviQR6W_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2472941377/1399585746",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2478068744,
+    "id_str": "2478068744",
+    "name": "ХУевый Кишинев",
+    "screen_name": "CaLaChisinau",
+    "location": "Republica Moldova, Chişinău",
+    "description": "Коммунисты, колорады, украинцы, поддерживающие оккупацию Крыма, мудрые бабушки из Той страны и прочие АМожноПоРусски. Это ХУевый Кишинев, детка!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 270,
+    "friends_count": 206,
+    "listed_count": 8,
+    "created_at": "Mon May 05 09:04:25 +0000 2014",
+    "favourites_count": 87,
+    "utc_offset": 10800,
+    "time_zone": "Baghdad",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 551,
+    "lang": "en",
+    "status": {
+      "created_at": "Mon May 19 18:55:55 +0000 2014",
+      "id": 468465088635371500,
+      "id_str": "468465088635371520",
+      "text": "@exclusiffpatrik риторический вопрос)",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": 468463639318392800,
+      "in_reply_to_status_id_str": "468463639318392832",
+      "in_reply_to_user_id": 1514352967,
+      "in_reply_to_user_id_str": "1514352967",
+      "in_reply_to_screen_name": "exclusiffpatrik",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "exclusiffpatrik",
+            "name": "Thracian Forever",
+            "id": 1514352967,
+            "id_str": "1514352967",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/464332181540597760/UL7c7oK2_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/464332181540597760/UL7c7oK2_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2478645266,
+    "id_str": "2478645266",
+    "name": "Хуевый Питер",
+    "screen_name": "HujevijPiter",
+    "location": "Хуевый Питер",
+    "description": "Может я не настолько хуев как некоторые, но достаточно, чтобы сообщать о всякой хуевости которая тут твориться",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 46,
+    "friends_count": 5,
+    "listed_count": 3,
+    "created_at": "Mon May 05 17:27:42 +0000 2014",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1,
+    "lang": "en",
+    "status": {
+      "created_at": "Mon May 05 17:44:42 +0000 2014",
+      "id": 463373734699892740,
+      "id_str": "463373734699892736",
+      "text": "Владимир Путин позвонил Иосифу Кобзону http://t.co/EFucE0rtFg \n\nКто знает, он еще жив???",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/EFucE0rtFg",
+            "expanded_url": "http://spb.kp.ru/daily/26227.5/3110211/",
+            "display_url": "spb.kp.ru/daily/26227.5/…",
+            "indices": [
+              39,
+              61
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/463372340261171200/-B0po8-m_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/463372340261171200/-B0po8-m_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2479585171,
+    "id_str": "2479585171",
+    "name": "Хуёвый Николаев",
+    "screen_name": "xyevii_nikolaev",
+    "location": "Николаев",
+    "description": "можем дать пизды а после сжечь.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 968,
+    "friends_count": 91,
+    "listed_count": 21,
+    "created_at": "Tue May 06 09:49:51 +0000 2014",
+    "favourites_count": 63,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 577,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 18:09:08 +0000 2014",
+      "id": 468453314368401400,
+      "id_str": "468453314368401408",
+      "text": "RT @prestupnostiNet: Экс-главный МЧСник Николаевщины может сбежать в #Крым, если его выпустят из #СИЗО, - #Тымчук #недобитков #взятка https…",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 19 18:04:56 +0000 2014",
+        "id": 468452258339115000,
+        "id_str": "468452258339115008",
+        "text": "Экс-главный МЧСник Николаевщины может сбежать в #Крым, если его выпустят из #СИЗО, - #Тымчук #недобитков #взятка https://t.co/R3XnZwhtsO",
+        "source": "<a href=\"https://news.pn\" rel=\"nofollow\">Преступности.НЕТ</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": {
+          "type": "Point",
+          "coordinates": [
+            44.952117,
+            34.102417
+          ]
+        },
+        "coordinates": {
+          "type": "Point",
+          "coordinates": [
+            34.102417,
+            44.952117
+          ]
+        },
+        "place": {
+          "id": "084d0d0155787e9d",
+          "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+          "place_type": "country",
+          "name": "Ukraine",
+          "full_name": "Ukraine",
+          "country_code": "UA",
+          "country": "Ukraine",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  22.1357201,
+                  44.38643
+                ],
+                [
+                  40.227172,
+                  44.38643
+                ],
+                [
+                  40.227172,
+                  52.379475
+                ],
+                [
+                  22.1357201,
+                  52.379475
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Крым",
+              "indices": [
+                48,
+                53
+              ]
+            },
+            {
+              "text": "СИЗО",
+              "indices": [
+                76,
+                81
+              ]
+            },
+            {
+              "text": "Тымчук",
+              "indices": [
+                85,
+                92
+              ]
+            },
+            {
+              "text": "недобитков",
+              "indices": [
+                93,
+                104
+              ]
+            },
+            {
+              "text": "взятка",
+              "indices": [
+                105,
+                112
+              ]
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "https://t.co/R3XnZwhtsO",
+              "expanded_url": "https://news.pn/104493",
+              "display_url": "news.pn/104493",
+              "indices": [
+                113,
+                136
+              ]
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Крым",
+            "indices": [
+              69,
+              74
+            ]
+          },
+          {
+            "text": "СИЗО",
+            "indices": [
+              97,
+              102
+            ]
+          },
+          {
+            "text": "Тымчук",
+            "indices": [
+              106,
+              113
+            ]
+          },
+          {
+            "text": "недобитков",
+            "indices": [
+              114,
+              125
+            ]
+          },
+          {
+            "text": "взятка",
+            "indices": [
+              126,
+              133
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/R3XnZwhtsO",
+            "expanded_url": "https://news.pn/104493",
+            "display_url": "news.pn/104493",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "prestupnostiNet",
+            "name": "Преступности.НЕТ",
+            "id": 108255201,
+            "id_str": "108255201",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "9ECFF0",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464513973170081792/boxEfmWI.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464513973170081792/boxEfmWI.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/463625712000200704/unXTYyT9_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/463625712000200704/unXTYyT9_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2479585171/1399372464",
+    "profile_link_color": "676966",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2480356651,
+    "id_str": "2480356651",
+    "name": "Хуёвый Славянск",
+    "screen_name": "ExileUA",
+    "location": "Славянск",
+    "description": "В Славянске очень хуёво, хуёвая Мэр поддреживает хуевых терористов, которые творят хуй знает что...",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1951,
+    "friends_count": 78,
+    "listed_count": 33,
+    "created_at": "Tue May 06 20:33:20 +0000 2014",
+    "favourites_count": 50,
+    "utc_offset": 10800,
+    "time_zone": "Kyiv",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1448,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 19:26:56 +0000 2014",
+      "id": 468472894033772540,
+      "id_str": "468472894033772544",
+      "text": "#Banderakaratel вата очнулась https://t.co/D8lpa2pfU6",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Banderakaratel",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/D8lpa2pfU6",
+            "expanded_url": "https://twitter.com/pan_tone",
+            "display_url": "twitter.com/pan_tone",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/465189073745739776/P8VbXClH.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/465189073745739776/P8VbXClH.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/467328478526713856/G_z_b9VK_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/467328478526713856/G_z_b9VK_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2480356651/1400262106",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2482103155,
+    "id_str": "2482103155",
+    "name": "Хуёвый Старобельск",
+    "screen_name": "starobelsk_ebat",
+    "location": "Украина, Старобельск",
+    "description": "Северное дно луганщины",
+    "url": "http://t.co/RnoGQF3PTz",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/RnoGQF3PTz",
+            "expanded_url": "http://twitter.com/starobelsk_ebat",
+            "display_url": "twitter.com/starobelsk_ebat",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 491,
+    "friends_count": 88,
+    "listed_count": 12,
+    "created_at": "Wed May 07 13:13:14 +0000 2014",
+    "favourites_count": 48,
+    "utc_offset": 10800,
+    "time_zone": "Baghdad",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 219,
+    "lang": "en-gb",
+    "status": {
+      "created_at": "Mon May 19 08:13:45 +0000 2014",
+      "id": 468303484089933800,
+      "id_str": "468303484089933824",
+      "text": "RT @norestfor: Комитет избирателей предлагает разрешить луганчанам голосовать в Старобельске.\nhttp://t.co/LReJmeEPvx",
+      "source": "<a href=\"http://tweetdiary.me\" rel=\"nofollow\">Tweet.Diary</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 19 08:04:09 +0000 2014",
+        "id": 468301064526368800,
+        "id_str": "468301064526368768",
+        "text": "Комитет избирателей предлагает разрешить луганчанам голосовать в Старобельске.\nhttp://t.co/LReJmeEPvx",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/LReJmeEPvx",
+              "expanded_url": "http://goo.gl/KRrxmL",
+              "display_url": "goo.gl/KRrxmL",
+              "indices": [
+                79,
+                101
+              ]
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/LReJmeEPvx",
+            "expanded_url": "http://goo.gl/KRrxmL",
+            "display_url": "goo.gl/KRrxmL",
+            "indices": [
+              94,
+              116
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "norestfor",
+            "name": "Хуёвая Луганда",
+            "id": 195457029,
+            "id_str": "195457029",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464048643251519488/NsTm8GNi.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464048643251519488/NsTm8GNi.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/464049508574187520/qpRiY_LK_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/464049508574187520/qpRiY_LK_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2482103155/1399468787",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2497128133,
+    "id_str": "2497128133",
+    "name": "Хуёвый Днепр",
+    "screen_name": "xyevii_dnepr",
+    "location": "Dnipropetrovsk",
+    "description": "Шалом",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 357,
+    "friends_count": 67,
+    "listed_count": 12,
+    "created_at": "Thu May 15 20:38:01 +0000 2014",
+    "favourites_count": 12,
+    "utc_offset": 10800,
+    "time_zone": "Kyiv",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 156,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 14:49:08 +0000 2014",
+      "id": 468402983253082100,
+      "id_str": "468402983253082113",
+      "text": "RT @CaLaChisinau: В Запорожье боятся, что приедут с ДНР,  в ДНР боятся, что приедут с Правого сектора, и все боятся, что приедет Тимошенко.",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 19 14:44:26 +0000 2014",
+        "id": 468401802166435840,
+        "id_str": "468401802166435840",
+        "text": "В Запорожье боятся, что приедут с ДНР,  в ДНР боятся, что приедут с Правого сектора, и все боятся, что приедет Тимошенко.",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 32,
+        "favorite_count": 12,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 32,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "CaLaChisinau",
+            "name": "ХУевый Кишинев",
+            "id": 2478068744,
+            "id_str": "2478068744",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/467998959621783552/vs5vn3fe_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/467998959621783552/vs5vn3fe_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2497128133/1400186682",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2497163317,
+    "id_str": "2497163317",
+    "name": "Охуенный Днепр",
+    "screen_name": "ohueniydnepr",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 214,
+    "friends_count": 21,
+    "listed_count": 5,
+    "created_at": "Thu May 15 21:03:12 +0000 2014",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 17,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 09:17:51 +0000 2014",
+      "id": 468319614922133500,
+      "id_str": "468319614922133504",
+      "text": "@ExileUA дай Бог чтоб так было по всей Украине.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 468316224888520700,
+      "in_reply_to_status_id_str": "468316224888520704",
+      "in_reply_to_user_id": 2480356651,
+      "in_reply_to_user_id_str": "2480356651",
+      "in_reply_to_screen_name": "ExileUA",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "ExileUA",
+            "name": "Хуёвый Славянск",
+            "id": 2480356651,
+            "id_str": "2480356651",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/467049088375341058/RQqcmRos_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/467049088375341058/RQqcmRos_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2497837818,
+    "id_str": "2497837818",
+    "name": "Хуёвый Севастополь",
+    "screen_name": "fuckysebastopol",
+    "location": "Це вас Топаль",
+    "description": "Город русских м...ков, военных пенсов и боттл-хантеров",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 692,
+    "friends_count": 70,
+    "listed_count": 15,
+    "created_at": "Fri May 16 06:12:07 +0000 2014",
+    "favourites_count": 1,
+    "utc_offset": 14400,
+    "time_zone": "Abu Dhabi",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 791,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 19:19:32 +0000 2014",
+      "id": 468471033931251700,
+      "id_str": "468471033931251712",
+      "text": "RT @EvaKobb: У Дмитрия Кисилёва жена оказывается психиатр хD",
+      "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 19 19:19:06 +0000 2014",
+        "id": 468470923327447040,
+        "id_str": "468470923327447040",
+        "text": "У Дмитрия Кисилёва жена оказывается психиатр хD",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 4,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "EvaKobb",
+            "name": " Українка ",
+            "id": 299789067,
+            "id_str": "299789067",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/468448560954867712/9aZsuNb3_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/468448560954867712/9aZsuNb3_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2497837818/1400412811",
+    "profile_link_color": "0A6B15",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2531231752,
+    "id_str": "2531231752",
+    "name": "Хуевая Марьинка",
+    "screen_name": "hyeva_maryinka",
+    "location": "Украина. Дон. обл. Марьинка",
+    "description": "ХУЙОВНИКИ УСІХ КРАЇН, ЄДНАЙТЕСЯ!!! РАЗОМ МИ СИЛА!!!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 215,
+    "friends_count": 422,
+    "listed_count": 11,
+    "created_at": "Mon May 05 14:47:12 +0000 2014",
+    "favourites_count": 58,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 2112,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 16:31:18 +0000 2014",
+      "id": 468428694634364900,
+      "id_str": "468428694634364928",
+      "text": "RT @Shok123: Новые данные от Семёна http://t.co/ELplS0D1Bl",
+      "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon May 19 16:23:42 +0000 2014",
+        "id": 468426780169486340,
+        "id_str": "468426780169486336",
+        "text": "Новые данные от Семёна http://t.co/ELplS0D1Bl",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 4,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [],
+          "media": [
+            {
+              "id": 468426777376088060,
+              "id_str": "468426777376088064",
+              "indices": [
+                23,
+                45
+              ],
+              "media_url": "http://pbs.twimg.com/media/BoAvrBTIYAAWqBp.png",
+              "media_url_https": "https://pbs.twimg.com/media/BoAvrBTIYAAWqBp.png",
+              "url": "http://t.co/ELplS0D1Bl",
+              "display_url": "pic.twitter.com/ELplS0D1Bl",
+              "expanded_url": "http://twitter.com/Shok123/status/468426780169486336/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 503,
+                  "h": 473,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 503,
+                  "h": 473,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 339,
+                  "h": 319,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "Shok123",
+            "name": "Хуёвый Минск",
+            "id": 515546426,
+            "id_str": "515546426",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 468426777376088060,
+            "id_str": "468426777376088064",
+            "indices": [
+              36,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/BoAvrBTIYAAWqBp.png",
+            "media_url_https": "https://pbs.twimg.com/media/BoAvrBTIYAAWqBp.png",
+            "url": "http://t.co/ELplS0D1Bl",
+            "display_url": "pic.twitter.com/ELplS0D1Bl",
+            "expanded_url": "http://twitter.com/Shok123/status/468426780169486336/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 503,
+                "h": 473,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 503,
+                "h": 473,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 339,
+                "h": 319,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 468426780169486340,
+            "source_status_id_str": "468426780169486336"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EBC9C1",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464384331146727426/Hg6TW48Y.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464384331146727426/Hg6TW48Y.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/464383496002084865/YP_Tv8cQ_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/464383496002084865/YP_Tv8cQ_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2531231752/1399552534",
+    "profile_link_color": "B30000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  },
+  {
+    "id": 2539393383,
+    "id_str": "2539393383",
+    "name": "Хуевая Одесса",
+    "screen_name": "hu_od",
+    "location": "Одесса",
+    "description": "Одесса против сепарастов.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 402,
+    "friends_count": 43,
+    "listed_count": 12,
+    "created_at": "Sat May 10 17:28:27 +0000 2014",
+    "favourites_count": 3,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 98,
+    "lang": "ru",
+    "status": {
+      "created_at": "Mon May 19 18:46:11 +0000 2014",
+      "id": 468462640667590660,
+      "id_str": "468462640667590657",
+      "text": "У Юли був великий форум з малим бiзнесом.",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/465183732379697154/wp3TLajg_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/465183732379697154/wp3TLajg_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2539393383/1399743542",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false
+  }
+]
