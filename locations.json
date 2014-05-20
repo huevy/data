@@ -263,5 +263,25 @@
     "name": "Хуевый Спрингфилд",
     "screen_name": "orghomer",
     "location": "Springfield, MO"
+  },
+  "velvetacidcat": {
+    "name": "Охуенный Стамбул",
+    "screen_name": "velvetacidcat",
+    "location": "Стамбул, Турция"
+  },
+  "kissmyspb": {
+    "name": "Хуёвый Питер",
+    "screen_name": "kissmyspb",
+    "location": "Санкт-Петербург, Россия"
+  },
+  "FAKELemberg": {
+    "name": "Хуёвый Львів",
+    "screen_name": "FAKELemberg",
+    "location": "Львов, Украина"
+  },
+  "fuck_borovichi": {
+    "name": "Хуёвые Боровичи",
+    "screen_name": "fuck_borovichi",
+    "location": "Боровичи, Сумская область, Украина"
   }
 }
