@@ -303,5 +303,20 @@
     "name": "Хуёвый Саратов",
     "screen_name": "xSaratov",
     "location": "Саратов, Россия"
+  },
+  "mrCrimea": {
+    "name": "Йуховый крымчанин",
+    "screen_name": "mrCrimea",
+    "location": "Крым"
+  },
+  "Voiceofkonig": {
+    "name": "Хуёвый Кёнигсберг",
+    "screen_name": "Voiceofkonig",
+    "location": "Калининград, Россия, Калининградская область"
+  },
+  "h_kharkov": {
+    "name": "Хуевый Харьков",
+    "screen_name": "h_kharkov",
+    "location": "Харьков, Украина"
   }
 }
