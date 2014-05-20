@@ -283,5 +283,25 @@
     "name": "Хуёвые Боровичи",
     "screen_name": "fuck_borovichi",
     "location": "Боровичи, Сумская область, Украина"
+  },
+  "hyevyiberdichev": {
+    "name": "Хуёвый Бердичев",
+    "screen_name": "hyevyiberdichev",
+    "location": "Бердичев, Житомирская область, Украина"
+  },
+  "fuckkiev": {
+    "name": "Хуёвый Киев",
+    "screen_name": "fuckkiev",
+    "location": "Киев, Украина"
+  },
+  "xyevii_herson": {
+    "name": "Хуёвый Херсон",
+    "screen_name": "xyevii_herson",
+    "location": "Херсон, Украина"
+  },
+  "xSaratov": {
+    "name": "Хуёвый Саратов",
+    "screen_name": "xSaratov",
+    "location": "Саратов, Россия"
   }
 }
