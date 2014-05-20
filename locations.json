@@ -203,5 +203,65 @@
     "name": "Хуевая Бавария",
     "screen_name": "xuevaya_bavaria",
     "location": "пр. Ильича, Харьков, Украина"
+  },
+  "Shikov90": {
+    "name": "Хуёвое Запорожье",
+    "screen_name": "Shikov90",
+    "location": "Запорожье, Украина"
+  },
+  "belaruski_front": {
+    "name": "Хранічэская Беларусь",
+    "screen_name": "belaruski_front",
+    "location": "Минск, Беларусь"
+  },
+  "fuck_lipetsk": {
+    "name": "Хуёвый Липецк",
+    "screen_name": "fuck_lipetsk",
+    "location": "Липецк, Россия"
+  },
+  "Bad_Makeevka": {
+    "name": "Хуевая Макеевка",
+    "screen_name": "Bad_Makeevka",
+    "location": "Макеевка, Донецкая область, Украина"
+  },
+  "persident_urk": {
+    "name": "Хуйовий Перзидент",
+    "screen_name": "persident_urk",
+    "location": "Киев, Украина"
+  },
+  "KorsarErgoProxy": {
+    "name": "Хуёвый Сектор",
+    "screen_name": "KorsarErgoProxy",
+    "location": "Харьков, Украина"
+  },
+  "LeadAirship": {
+    "name": "Нормальный Днепр",
+    "screen_name": "LeadAirship",
+    "location": "Днепропетровск, Украина"
+  },
+  "xu_roissia": {
+    "name": "Хуёвая Роиссия",
+    "screen_name": "xu_roissia",
+    "location": "Россия"
+  },
+  "Rover_ld": {
+    "name": "Хуёвый Каир",
+    "screen_name": "Rover_ld",
+    "location": "Каир, Эль-Кахира, Египет"
+  },
+  "borisov_Hu": {
+    "name": "Хуёвый Борисов",
+    "screen_name": "borisov_Hu",
+    "location": "Борисов, Минская область, Беларусь"
+  },
+  "ZhidoBandera": {
+    "name": "Хуёвый Washington DC",
+    "screen_name": "ZhidoBandera",
+    "location": "Washington, DC"
+  },
+  "orghomer": {
+    "name": "Хуевый Спрингфилд",
+    "screen_name": "orghomer",
+    "location": "Springfield, MO"
   }
 }
