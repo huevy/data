@@ -318,5 +318,10 @@
     "name": "Хуевый Харьков",
     "screen_name": "h_kharkov",
     "location": "Харьков, Украина"
+  },
+  "xui_de": {
+    "name": "Хуёвая Германия",
+    "screen_name": "xui_de",
+    "location": "Германия"
   }
 }
