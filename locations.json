@@ -323,5 +323,15 @@
     "name": "Хуёвая Германия",
     "screen_name": "xui_de",
     "location": "Германия"
+  },
+  "agap7180": {
+    "name": "#ХуёвыйКривбасс",
+    "screen_name": "agap7180",
+    "location": "Кривой Рог, Днепропетровская область, Украина"
+  },
+  "huvinnitsa": {
+    "name": "Хуёвая Винница",
+    "screen_name": "huvinnitsa",
+    "location": "Винница, Украина"
   }
 }
