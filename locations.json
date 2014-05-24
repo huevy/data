@@ -333,6 +333,20 @@
     "name": "Хуёвая Винница",
     "screen_name": "huvinnitsa",
     "location": "Винница, Украина"
+  },
+  "IlliaMassive": {
+    "name": "Хуйовий Хмельницький",
+    "screen_name": "IlliaMassive",
+    "location": "Хмельницкий, Украина"
+  },
+  "lazebney_non": {
+    "name": "Херовый Киев",
+    "screen_name": "lazebney_non",
+    "location": "Киев, Украина"
+  },
+  "TZachem": {
+    "name": "Хуевый Благовещенск",
+    "screen_name": "TZachem",
+    "location": "Россия, Амурская область, Благовещенск"
   }
-
 }
