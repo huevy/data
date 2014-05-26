@@ -373,5 +373,10 @@
     "name": "Хуевая Швеция",
     "screen_name": "hu_sverige",
     "location": "Швеция"
+  },
+  "konstutituta": {
+    "name": "Хуёвый Вильнюс",
+    "screen_name": "konstutituta",
+    "location": "Вильнюс, Литва"
   }
 }
