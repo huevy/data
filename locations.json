@@ -383,5 +383,25 @@
     "name": "Хуёвая Астрахань",
     "screen_name": "avacezar",
     "location": "Астрахань, Россия"
+  },
+  "Star0fCCTV": {
+    "name": "Хуёвый Владивосток",
+    "screen_name": "Star0fCCTV",
+    "location": "Россия, Владивосток"
+  },
+  "harmar7": {
+    "name": "Хуёвый Мариуполь",
+    "screen_name": "harmar7",
+    "location": "Мариуполь, Донецкая область, Украина"
+  },
+  "HuyovayaMoskva": {
+    "name": "Хуёвая Москва  ",
+    "screen_name": "HuyovayaMoskva",
+    "location": "Россия, Москва"
+  },
+  "tevan100": {
+    "name": "Хуёвый Дюссельдорф",
+    "screen_name": "tevan100",
+    "location": "Дюссельдорф, Германия"
   }
 }
