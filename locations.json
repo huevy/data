@@ -367,6 +367,11 @@
   "niggaslife": {
     "name": "ніхуйовий Мюнхен",
     "screen_name": "niggaslife",
-  "location": "Мюнхен, Германия"
+    "location": "Мюнхен, Германия"
+  },
+  "hu_sverige": {
+    "name": "Хуевая Швеция",
+    "screen_name": "hu_sverige",
+    "location": "Швеция"
   }
 }
