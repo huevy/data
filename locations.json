@@ -413,5 +413,20 @@
     "name": "Путин, отъебись !",
     "screen_name": "krivedko",
     "location": "ул. Багговутовская, Киев, Украина"
+  },
+  "scorpiost1": {
+    "name": "Хуёвый Стаханов",
+    "screen_name": "scorpiost1",
+    "location": "Стаханов, Луганская область, Украина"
+  },
+  "vsb_2002_vsb": {
+    "name": "Хуевые Черкассы",
+    "screen_name": "vsb_2002_vsb",
+    "location": "Черкассы, Украина"
+  },
+  "xyeviidonbass": {
+    "name": "Хуевый Донбасс",
+    "screen_name": "xyeviidonbass",
+    "location": "Донецкая область, Украина"
   }
 }
