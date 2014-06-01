@@ -428,5 +428,70 @@
     "name": "Хуевый Донбасс",
     "screen_name": "xyeviidonbass",
     "location": "Донецкая область, Украина"
+  },
+  "NnXyevii": {
+    "name": "Хуевый Нижний",
+    "screen_name": "NnXyevii",
+    "location": "Нижний Новгород, Россия"
+  },
+  "mogilev_front": {
+    "name": "Хуевый Могилев",
+    "screen_name": "mogilev_front",
+    "location": "Могилёв, Беларусь"
+  },
+  "huevyi_lvov": {
+    "name": "Хуевый Львов",
+    "screen_name": "huevyi_lvov",
+    "location": "Львов, Украина"
+  },
+  "HrenovoNN": {
+    "name": "Хуевый Нижний",
+    "screen_name": "HrenovoNN",
+    "location": "Нижний Новгород, Россия"
+  },
+  "lousyasshole": {
+    "name": "Хуевый Сидней",
+    "screen_name": "lousyasshole",
+    "location": "Сидней, Австралия"
+  },
+  "XyeviiTorez": {
+    "name": "Хуевый Торез",
+    "screen_name": "XyeviiTorez",
+    "location": "Торез, Донецкая область, Украина"
+  },
+  "mykolaiv_ok": {
+    "name": "Хуевый Николаев",
+    "screen_name": "mykolaiv_ok",
+    "location": "Николаев, Украина"
+  },
+  "X_Nizhneudinsk": {
+    "name": "Хуевый Нижнеудинск",
+    "screen_name": "X_Nizhneudinsk",
+    "location": "Россия, Иркутская область, Нижнеудинск"
+  },
+  "xy_rim": {
+    "name": "Хуевый Рим",
+    "screen_name": "xy_rim",
+    "location": "Рим, Италия"
+  },
+  "InsideDNR": {
+    "name": "Хуевый житель ДНР",
+    "screen_name": "InsideDNR",
+    "location": "Донецк, Украина"
+  },
+  "hueviikrim": {
+    "name": "Хуевый Крым",
+    "screen_name": "hueviikrim",
+    "location": "Автономная Республика Крым"
+  },
+  "darlingrostov": {
+    "name": "Хуёвый Ростов",
+    "screen_name": "darlingrostov",
+    "location": "Россия, Ростов"
+  },
+  "xyzello": {
+    "name": "Хуёвый Фастов",
+    "screen_name": "xyzello",
+    "location": "Фастов, Киевская область, Украина"
   }
 }
