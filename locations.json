@@ -493,5 +493,65 @@
     "name": "Хуёвый Фастов",
     "screen_name": "xyzello",
     "location": "Фастов, Киевская область, Украина"
+  },
+  "Sloviansk": {
+    "name": "СЛАВЯНСК",
+    "screen_name": "Sloviansk",
+    "location": "Славянск, Донецкая область, Украина"
+  },
+  "pbv19701": {
+    "name": "Хуевая Звенигородка",
+    "screen_name": "pbv19701",
+    "location": "Звенигородка, Черкасская область, Украина"
+  },
+  "you_russophobe": {
+    "name": "Нехуёвое Запорожье",
+    "screen_name": "you_russophobe",
+    "location": "Запорожье, Украина"
+  },
+  "StriyVovk": {
+    "name": "Хуевые Нивки (Киев)",
+    "screen_name": "StriyVovk",
+    "location": "Нивки, Киев, город Киев, Украина"
+  },
+  "amulet837": {
+    "name": "Хуёвый Череповец",
+    "screen_name": "amulet837",
+    "location": "Россия, Вологодская область, Череповец"
+  },
+  "otakahuynyaa": {
+    "name": "Хуевый Северодвинск",
+    "screen_name": "otakahuynyaa",
+    "location": "Россия, Архангельская область, Северодвинск"
+  },
+  "WildWoodWolf": {
+    "name": "Хуевые Бельцы",
+    "screen_name": "WildWoodWolf",
+    "location": "Бельцы, Молдова"
+  },
+  "Perevalshchyna": {
+    "name": "Хуйова Перевальщина",
+    "screen_name": "Perevalshchyna",
+    "location": "Перевальск, Луганская область, Украина"
+  },
+  "XyevayaYalta": {
+    "name": "Хуевая Ялта",
+    "screen_name": "XyevayaYalta",
+    "location": "Ялта, Крым"
+  },
+  "vlded73": {
+    "name": "Хуёвый Мариуполь",
+    "screen_name": "vlded73",
+    "location": "Мариуполь, Донецкая область, Украина"
+  },
+  "huevyytolyatti": {
+    "name": "Хуёвый Тольятти",
+    "screen_name": "huevyytolyatti",
+    "location": "Россия, Самарская область, Тольятти"
+  },
+  "bad_avdeevka": {
+    "name": "Хуевая Авдеевка",
+    "screen_name": "bad_avdeevka",
+    "location": "Авдеевка, Донецкая область, Украина"
   }
 }
