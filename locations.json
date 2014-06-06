@@ -553,5 +553,20 @@
     "name": "Хуевая Авдеевка",
     "screen_name": "bad_avdeevka",
     "location": "Авдеевка, Донецкая область, Украина"
+  },
+  "xyeviy_eco": {
+    "name": "Хуёвый экономист",
+    "screen_name": "xyeviy_eco",
+    "location": "Украина, Киевская область, Бровары "
+  },
+  "WotDaFack": {
+    "name": "Хуевые Нивки (Киев)",
+    "screen_name": "WotDaFack",
+    "location": "Нивки, Киев, город Киев, Украина"
+  },
+  "ohueni_nikolaev": {
+    "name": "Охуенный Николаев",
+    "screen_name": "ohueni_nikolaev",
+    "location": "Николаев, Украина"
   }
 }
