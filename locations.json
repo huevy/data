@@ -608,5 +608,25 @@
     "name": "Хуёвая Шостка",
     "screen_name": "shostka_city",
     "location": "Шостка, Сумская область, Украина"
+  },
+  "hugowow1": {
+    "name": "Хуевый Каменец",
+    "screen_name": "hugowow1",
+    "location": "Каменец-Подольский, Хмельницкая область, Украина"
+  },
+  "Zhytomyrshchyna": {
+    "name": "Хуйова Житомирщина",
+    "screen_name": "Zhytomyrshchyna",
+    "location": "Житомир, Украина"
+  },
+  "aTyp_Rub": {
+    "name": "аТипичное Рубежное",
+    "screen_name": "aTyp_Rub",
+    "location": "Рубежное, Луганская область, Украина"
+  },
+  "hu_Zaporozhye": {
+    "name": "Хуйове Запоріжжя",
+    "screen_name": "hu_Zaporozhye",
+    "location": "Запорожье, Украина"
   }
 }
