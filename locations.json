@@ -678,5 +678,25 @@
     "name": "Хуевый Первомайск",
     "screen_name": "hu_pervomaysk",
     "location": "Первомайск, Луганская область, Украина"
+  },
+  "Mila100500": {
+    "name": "Мила Харьков Хуевый",
+    "screen_name": "Mila100500",
+    "location": "ул. Якира, Харьков, Украина"
+  },
+  "hu_sumy": {
+    "name": "Хуевые Сумы",
+    "screen_name": "hu_sumy",
+    "location": "Сумы, Украина"
+  },
+  "chernovcy": {
+    "name": "Хуëвые Черновцы",
+    "screen_name": "chernovcy",
+    "location": "Черновцы, Украина"
+  },
+  "chychen3": {
+    "name": "Хуёвый Славутич",
+    "screen_name": "chychen3",
+    "location": "Славутич, Киевская область, Украина"
   }
 }
