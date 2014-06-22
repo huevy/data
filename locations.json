@@ -673,5 +673,10 @@
     "name": "Хуёвый Антананариву",
     "screen_name": "Galyaev",
     "location": "Антананариву, Мадагаскар"
+  },
+  "hu_pervomaysk": {
+    "name": "Хуевый Первомайск",
+    "screen_name": "hu_pervomaysk",
+    "location": "Первомайск, Луганская область, Украина"
   }
 }
