@@ -743,5 +743,40 @@
     "name": "Прусская Весна",
     "screen_name": "brooklynoir",
     "location": "Стамбул, Турция"
+  },
+  "genechk": {
+    "name": "Хуевый Генек",
+    "screen_name": "genechk",
+    "location": "площадь Свободы, Харьков, Харьковская область, Украина"
+  },
+  "blinofffff": {
+    "name": "Хуевый Тольятти",
+    "screen_name": "blinofffff",
+    "location": "Россия, Самарская область, Тольятти"
+  },
+  "x_chernigov": {
+    "name": "Хуевый Чернигов ",
+    "screen_name": "x_chernigov",
+    "location": "Чернигов, Украина"
+  },
+  "marchenkoevgen": {
+    "name": "Хуевый Мелитополь",
+    "screen_name": "marchenkoevgen",
+    "location": "Мелитополь, Запорожская область, Украина"
+  },
+  "hyevuylutsk": {
+    "name": "Хуёвый Луцк",
+    "screen_name": "hyevuylutsk",
+    "location": "Луцк, Волынская область, Украина"
+  },
+  "stuttgartnash": {
+    "name": "Хуёвый Штутгарт",
+    "screen_name": "stuttgartnash",
+    "location": "Штутгарт, Германия"
+  },
+  "Egorovicch": {
+    "name": "Хуёвый Симферополь",
+    "screen_name": "Egorovicch",
+    "location": "Симферополь, Крым"
   }
 }
