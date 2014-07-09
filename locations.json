@@ -823,5 +823,20 @@
     "name": "Хуиное Мулякино",
     "screen_name": "marihua7",
     "location": "Мелекино, Донецкая область, Украина"
+  },
+  "lisichansk": {
+    "name": "Хуёвый Лисичанск",
+    "screen_name": "lisichansk",
+    "location": "Лисичанск, Луганская область, Украина"
+  },
+  "xuredmond": {
+    "name": "Хуёвый Редмонд",
+    "screen_name": "xuredmond",
+    "location": "Редмонд, Вашингтон, Соединенные Штаты Америки"
+  },
+  "Kirobagdad_": {
+    "name": "Хуёвый Кировоград",
+    "screen_name": "Kirobagdad_",
+    "location": "Кировоград, Украина"
   }
 }
