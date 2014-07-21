@@ -1,4 +1,9 @@
 {
+  "349870": {
+    "name": "Хуёвое Рубежное",
+    "screen_name": "349870",
+    "location": "TODO!!!"
+  },
   "norestfor": {
     "name": "Хуёвая Луганда",
     "screen_name": "norestfor",
@@ -888,5 +893,15 @@
     "name": "cazzata Roma",
     "screen_name": "mmawka",
     "location": "Рим, Италия"
+  },
+  "herr_cupertino": {
+    "name": "ОКуєний Купертіно",
+    "screen_name": "herr_cupertino",
+    "location": "Купертино, США"
+  },
+  "lisiyfront": {
+    "name": "Хуёвый Лисичанск",
+    "screen_name": "lisiyfront",
+    "location": "Лисичанск, Луганская область, Украина"
   }
 }
