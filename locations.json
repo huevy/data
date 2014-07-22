@@ -903,5 +903,55 @@
     "name": "Хуёвый Лисичанск",
     "screen_name": "lisiyfront",
     "location": "Лисичанск, Луганская область, Украина"
+  },
+  "the_boris": {
+    "name": "неХуёвый Portland",
+    "screen_name": "the_boris",
+    "location": "TODO!!!"
+  },
+  "Marsel_tat": {
+    "name": "Хуевый татарин  ",
+    "screen_name": "Marsel_tat",
+    "location": "Казань, Россия"
+  },
+  "Com_munaka": {
+    "name": "Ху- плохой Ленинград",
+    "screen_name": "Com_munaka",
+    "location": "Санкт-Петербург, Россия"
+  },
+  "badBahchi": {
+    "name": "хуёвый Бахчисарай",
+    "screen_name": "badBahchi",
+    "location": "Бахчисарай, Крым"
+  },
+  "SergBarada": {
+    "name": "Хуёвый беларус",
+    "screen_name": "SergBarada",
+    "location": "Молодечно, Беларусь"
+  },
+  "pocroviteli": {
+    "name": "неХуёвая Румыния ",
+    "screen_name": "pocroviteli",
+    "location": "Бухарест, Румыния"
+  },
+  "yur5462": {
+    "name": "хуёвая салтовка",
+    "screen_name": "yur5462",
+    "location": "ул. Героев Труда, Харьков, Украина"
+  },
+  "huyovoeTripolye": {
+    "name": "huyovoe Tripolye",
+    "screen_name": "huyovoeTripolye",
+    "location": "Триполье, Донецкая область, Украина"
+  },
+  "SelidovoHuidovo": {
+    "name": "Хуевое Селидово",
+    "screen_name": "SelidovoHuidovo",
+    "location": "Селидово, Донецкая область, Украина"
+  },
+  "hdzerz": {
+    "name": "Хуевый Дзержинск",
+    "screen_name": "hdzerz",
+    "location": "Дзержинск, Донецкая область, Украина"
   }
 }
