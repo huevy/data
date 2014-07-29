@@ -953,5 +953,25 @@
     "name": "Хуевый Дзержинск",
     "screen_name": "hdzerz",
     "location": "Дзержинск, Донецкая область, Украина"
+  },
+  "trollgnet": {
+    "name": "Тролль-каратель",
+    "screen_name": "trollgnet",
+    "location": "Жмеринка, Украина"
+  },
+  "gmailcom1754": {
+    "name": "ДонЛуганДон",
+    "screen_name": "gmailcom1754",
+    "location": "Донецк, Украина"
+  },
+  "Ale4kko": {
+    "name": "Хуевый Юго-Восток",
+    "screen_name": "Ale4kko",
+    "location": "Херсон, Украина"
+  },
+  "hu_Zaporizhzhya": {
+    "name": "Хуйове Запоріжжя",
+    "screen_name": "hu_Zaporizhzhya",
+    "location": "Запорожье, Украина"
   }
 }
