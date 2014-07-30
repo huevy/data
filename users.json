@@ -1,5 +1,187 @@
 [
   {
+    "id": 2359965062,
+    "id_str": "2359965062",
+    "name": "Хуёвый СовБез",
+    "screen_name": "kryganoff",
+    "location": "",
+    "description": "Хуёвый Красноград",
+    "url": "http://t.co/CQzaASLQ8I",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/CQzaASLQ8I",
+            "expanded_url": "http://www.stihi.ru/avtor/zlloj",
+            "display_url": "stihi.ru/avtor/zlloj",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 59,
+    "friends_count": 111,
+    "listed_count": 0,
+    "created_at": "Mon Feb 24 19:56:34 +0000 2014",
+    "favourites_count": 83,
+    "utc_offset": 10800,
+    "time_zone": "Kyiv",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2956,
+    "lang": "ru",
+    "status": {
+      "created_at": "Wed Jul 30 08:53:32 +0000 2014",
+      "id": 494405421893816300,
+      "id_str": "494405421893816323",
+      "text": "RT @novostidnua: В Мариуполе СБУ обнаружила обустроенный боевиками тайник с боеприпасами http://t.co/Ws7nWzXGE2",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Jul 30 08:52:13 +0000 2014",
+        "id": 494405090384814100,
+        "id_str": "494405090384814080",
+        "text": "В Мариуполе СБУ обнаружила обустроенный боевиками тайник с боеприпасами http://t.co/Ws7nWzXGE2",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "084d0d0155787e9d",
+          "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+          "place_type": "country",
+          "name": "Ukraine",
+          "full_name": "Ukraine",
+          "country_code": "UA",
+          "country": "Ukraine",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  22.1357201,
+                  44.38643
+                ],
+                [
+                  40.227172,
+                  44.38643
+                ],
+                [
+                  40.227172,
+                  52.379475
+                ],
+                [
+                  22.1357201,
+                  52.379475
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "retweet_count": 4,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/Ws7nWzXGE2",
+              "expanded_url": "http://novosti.dn.ua/details/231003/",
+              "display_url": "novosti.dn.ua/details/231003/",
+              "indices": [
+                72,
+                94
+              ]
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/Ws7nWzXGE2",
+            "expanded_url": "http://novosti.dn.ua/details/231003/",
+            "display_url": "novosti.dn.ua/details/231003/",
+            "indices": [
+              89,
+              111
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "novostidnua",
+            "name": "Новости Донбасса",
+            "id": 52025210,
+            "id_str": "52025210",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/488368717416235009/pXLTQ--X_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/488368717416235009/pXLTQ--X_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2359965062/1406492863",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "muting": false
+  },
+  {
     "id": 2488825484,
     "id_str": "2488825484",
     "name": "Хуёвый Інформатор",
@@ -13,7 +195,7 @@
       }
     },
     "protected": false,
-    "followers_count": 11,
+    "followers_count": 31,
     "friends_count": 103,
     "listed_count": 0,
     "created_at": "Sat May 10 21:31:04 +0000 2014",
@@ -22,13 +204,13 @@
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 462,
+    "statuses_count": 464,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:40:00 +0000 2014",
-      "id": 494402012931698700,
-      "id_str": "494402012931698688",
-      "text": "RT @ukrpravda_news: Сили АТО знищили колону терористів, які проривались до Савур-Могили | Українська правда http://t.co/ygqOpmTbkL via @ukr…",
+      "created_at": "Wed Jul 30 08:51:29 +0000 2014",
+      "id": 494404903994163200,
+      "id_str": "494404903994163200",
+      "text": "2009 рік ДНР http://t.co/4MVBDuBU1B",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -40,97 +222,54 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweeted_status": {
-        "created_at": "Wed Jul 30 08:38:02 +0000 2014",
-        "id": 494401521774116860,
-        "id_str": "494401521774116864",
-        "text": "Сили АТО знищили колону терористів, які проривались до Савур-Могили | Українська правда http://t.co/ygqOpmTbkL via @ukrpravda_news",
-        "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
-        "truncated": false,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweet_count": 12,
-        "favorite_count": 2,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "urls": [
-            {
-              "url": "http://t.co/ygqOpmTbkL",
-              "expanded_url": "http://www.pravda.com.ua/news/2014/07/30/7033413/",
-              "display_url": "pravda.com.ua/news/2014/07/3…",
-              "indices": [
-                88,
-                110
-              ]
-            }
-          ],
-          "user_mentions": [
-            {
-              "screen_name": "ukrpravda_news",
-              "name": "Українська правда",
-              "id": 236466533,
-              "id_str": "236466533",
-              "indices": [
-                115,
-                130
-              ]
-            }
-          ]
-        },
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "uk"
-      },
-      "retweet_count": 12,
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "urls": [
+        "urls": [],
+        "user_mentions": [],
+        "media": [
           {
-            "url": "http://t.co/ygqOpmTbkL",
-            "expanded_url": "http://www.pravda.com.ua/news/2014/07/30/7033413/",
-            "display_url": "pravda.com.ua/news/2014/07/3…",
+            "id": 494404902794567700,
+            "id_str": "494404902794567680",
             "indices": [
-              108,
-              130
-            ]
-          }
-        ],
-        "user_mentions": [
-          {
-            "screen_name": "ukrpravda_news",
-            "name": "Українська правда",
-            "id": 236466533,
-            "id_str": "236466533",
-            "indices": [
-              3,
-              18
-            ]
-          },
-          {
-            "screen_name": "ukrpravda_news",
-            "name": "Українська правда",
-            "id": 236466533,
-            "id_str": "236466533",
-            "indices": [
-              135,
-              140
-            ]
+              13,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/Btx6o75IIAAm789.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Btx6o75IIAAm789.jpg",
+            "url": "http://t.co/4MVBDuBU1B",
+            "display_url": "pic.twitter.com/4MVBDuBU1B",
+            "expanded_url": "http://twitter.com/EdGoroshochok/status/494404903994163200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 588,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 333,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 627,
+                "h": 615,
+                "resize": "fit"
+              }
+            }
           }
         ]
       },
       "favorited": false,
-      "retweeted": false,
+      "retweeted": true,
       "possibly_sensitive": false,
       "lang": "uk"
     },
@@ -179,14 +318,14 @@
     "time_zone": null,
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 1568,
+    "statuses_count": 1569,
     "lang": "en",
     "status": {
-      "created_at": "Wed Jul 30 08:10:23 +0000 2014",
-      "id": 494394561205399550,
-      "id_str": "494394561205399552",
-      "text": "Нужна Беловежская пуща - 2\nВместо Кравчука - @poroshenko\nШушкевич - это Бацька\nЕльцин - @navalny или @khodorkovsky ? http://t.co/TlDOGTXX4X",
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "created_at": "Wed Jul 30 08:50:09 +0000 2014",
+      "id": 494404568152039400,
+      "id_str": "494404568152039424",
+      "text": "Дякую, @AnPrikhodko ! http://t.co/q32or6JNJA",
+      "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
       "in_reply_to_status_id_str": null,
@@ -197,7 +336,7 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 1,
+      "retweet_count": 4,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -205,70 +344,50 @@
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "poroshenko",
-            "name": "Петро Порошенко",
-            "id": 2423747006,
-            "id_str": "2423747006",
+            "screen_name": "AnPrikhodko",
+            "name": "Анастасия Приходько",
+            "id": 111288806,
+            "id_str": "111288806",
             "indices": [
-              45,
-              56
-            ]
-          },
-          {
-            "screen_name": "navalny",
-            "name": "Alexey Navalny",
-            "id": 82299300,
-            "id_str": "82299300",
-            "indices": [
-              88,
-              96
-            ]
-          },
-          {
-            "screen_name": "khodorkovsky",
-            "name": "khodorkovsky",
-            "id": 28859692,
-            "id_str": "28859692",
-            "indices": [
-              101,
-              114
+              7,
+              19
             ]
           }
         ],
         "media": [
           {
-            "id": 494394554972258300,
-            "id_str": "494394554972258305",
+            "id": 494404553161572350,
+            "id_str": "494404553161572353",
             "indices": [
-              117,
-              139
+              22,
+              44
             ],
-            "media_url": "http://pbs.twimg.com/media/BtxxOnQCQAEuG4z.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BtxxOnQCQAEuG4z.jpg",
-            "url": "http://t.co/TlDOGTXX4X",
-            "display_url": "pic.twitter.com/TlDOGTXX4X",
-            "expanded_url": "http://twitter.com/hu_pozniaky/status/494394561205399552/photo/1",
+            "media_url": "http://pbs.twimg.com/media/Btx6UlaIAAEVPqG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Btx6UlaIAAEVPqG.jpg",
+            "url": "http://t.co/q32or6JNJA",
+            "display_url": "pic.twitter.com/q32or6JNJA",
+            "expanded_url": "http://twitter.com/hu_pozniaky/status/494404568152039424/photo/1",
             "type": "photo",
             "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 734,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 836,
+                "h": 1024,
+                "resize": "fit"
+              },
               "small": {
-                "w": 254,
-                "h": 143,
+                "w": 340,
+                "h": 416,
                 "resize": "fit"
               },
               "thumb": {
                 "w": 150,
                 "h": 150,
                 "resize": "crop"
-              },
-              "large": {
-                "w": 254,
-                "h": 143,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 254,
-                "h": 143,
-                "resize": "fit"
               }
             }
           }
@@ -277,7 +396,7 @@
       "favorited": false,
       "retweeted": true,
       "possibly_sensitive": false,
-      "lang": "ru"
+      "lang": "uk"
     },
     "contributors_enabled": false,
     "is_translator": false,
@@ -315,7 +434,7 @@
       }
     },
     "protected": false,
-    "followers_count": 26605,
+    "followers_count": 26606,
     "friends_count": 102,
     "listed_count": 281,
     "created_at": "Wed Apr 13 13:43:53 +0000 2011",
@@ -324,13 +443,13 @@
     "time_zone": "Kyiv",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 18470,
+    "statuses_count": 18471,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 07:47:13 +0000 2014",
-      "id": 494388730766323700,
-      "id_str": "494388730766323712",
-      "text": "RT @JuMistress: На российской ривьере. http://t.co/cjEwGb3Ezt",
+      "created_at": "Wed Jul 30 08:51:11 +0000 2014",
+      "id": 494404830493171700,
+      "id_str": "494404830493171712",
+      "text": "В России новости делаются так http://t.co/S9UQaoBZlv",
       "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -342,109 +461,31 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweeted_status": {
-        "created_at": "Tue Jul 29 16:18:54 +0000 2014",
-        "id": 494155111460241400,
-        "id_str": "494155111460241408",
-        "text": "На российской ривьере. http://t.co/cjEwGb3Ezt",
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated": false,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweet_count": 84,
-        "favorite_count": 19,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "urls": [],
-          "user_mentions": [],
-          "media": [
-            {
-              "id": 494155109211705340,
-              "id_str": "494155109211705344",
-              "indices": [
-                23,
-                45
-              ],
-              "media_url": "http://pbs.twimg.com/media/BtuXdCSCEAAsTG1.jpg",
-              "media_url_https": "https://pbs.twimg.com/media/BtuXdCSCEAAsTG1.jpg",
-              "url": "http://t.co/cjEwGb3Ezt",
-              "display_url": "pic.twitter.com/cjEwGb3Ezt",
-              "expanded_url": "http://twitter.com/JuMistress/status/494155111460241408/photo/1",
-              "type": "photo",
-              "sizes": {
-                "medium": {
-                  "w": 600,
-                  "h": 600,
-                  "resize": "fit"
-                },
-                "thumb": {
-                  "w": 150,
-                  "h": 150,
-                  "resize": "crop"
-                },
-                "small": {
-                  "w": 340,
-                  "h": 340,
-                  "resize": "fit"
-                },
-                "large": {
-                  "w": 600,
-                  "h": 600,
-                  "resize": "fit"
-                }
-              }
-            }
-          ]
-        },
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "ru"
-      },
-      "retweet_count": 84,
-      "favorite_count": 0,
+      "retweet_count": 2,
+      "favorite_count": 6,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": [
-          {
-            "screen_name": "JuMistress",
-            "name": "Ukrainian Mistress ",
-            "id": 299789067,
-            "id_str": "299789067",
-            "indices": [
-              3,
-              14
-            ]
-          }
-        ],
+        "user_mentions": [],
         "media": [
           {
-            "id": 494155109211705340,
-            "id_str": "494155109211705344",
+            "id": 494160654727516160,
+            "id_str": "494160654727516162",
             "indices": [
-              39,
-              61
+              30,
+              52
             ],
-            "media_url": "http://pbs.twimg.com/media/BtuXdCSCEAAsTG1.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BtuXdCSCEAAsTG1.jpg",
-            "url": "http://t.co/cjEwGb3Ezt",
-            "display_url": "pic.twitter.com/cjEwGb3Ezt",
-            "expanded_url": "http://twitter.com/JuMistress/status/494155111460241408/photo/1",
+            "media_url": "http://pbs.twimg.com/media/Btucf08CEAIk8ee.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Btucf08CEAIk8ee.jpg",
+            "url": "http://t.co/S9UQaoBZlv",
+            "display_url": "pic.twitter.com/S9UQaoBZlv",
+            "expanded_url": "http://twitter.com/durdominua/status/494160656065896448/photo/1",
             "type": "photo",
             "sizes": {
-              "medium": {
-                "w": 600,
-                "h": 600,
+              "large": {
+                "w": 576,
+                "h": 424,
                 "resize": "fit"
               },
               "thumb": {
@@ -452,24 +493,24 @@
                 "h": 150,
                 "resize": "crop"
               },
-              "small": {
-                "w": 340,
-                "h": 340,
+              "medium": {
+                "w": 576,
+                "h": 424,
                 "resize": "fit"
               },
-              "large": {
-                "w": 600,
-                "h": 600,
+              "small": {
+                "w": 340,
+                "h": 250,
                 "resize": "fit"
               }
             },
-            "source_status_id": 494155111460241400,
-            "source_status_id_str": "494155111460241408"
+            "source_status_id": 494160656065896450,
+            "source_status_id_str": "494160656065896448"
           }
         ]
       },
       "favorited": false,
-      "retweeted": true,
+      "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
     },
@@ -509,7 +550,7 @@
       }
     },
     "protected": false,
-    "followers_count": 423,
+    "followers_count": 424,
     "friends_count": 680,
     "listed_count": 8,
     "created_at": "Wed Mar 19 12:28:24 +0000 2014",
@@ -518,92 +559,25 @@
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 964,
+    "statuses_count": 965,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:33:16 +0000 2014",
-      "id": 494400321058521100,
-      "id_str": "494400321058521088",
-      "text": "RT @sernaum: Ташоштакое, ну? Ватники постоянно берут картинки из немецко-фашистской хроники пропаганды 30-х - 40-х годов,... http://t.co/88…",
+      "created_at": "Wed Jul 30 08:45:28 +0000 2014",
+      "id": 494403391410667500,
+      "id_str": "494403391410667520",
+      "text": "@Pravdiva_pravda мда, у нас на все АТО наверное столько единиц бронетехники, а не в Шахтерске.",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 494403155367825400,
+      "in_reply_to_status_id_str": "494403155367825408",
+      "in_reply_to_user_id": 584522051,
+      "in_reply_to_user_id_str": "584522051",
+      "in_reply_to_screen_name": "Pravdiva_pravda",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweeted_status": {
-        "created_at": "Wed Jul 30 08:32:41 +0000 2014",
-        "id": 494400174266261500,
-        "id_str": "494400174266261504",
-        "text": "Ташоштакое, ну? Ватники постоянно берут картинки из немецко-фашистской хроники пропаганды 30-х - 40-х годов,... http://t.co/88IAPZfWQn",
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-        "truncated": false,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweet_count": 11,
-        "favorite_count": 4,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "urls": [],
-          "user_mentions": [],
-          "media": [
-            {
-              "id": 494400171086987260,
-              "id_str": "494400171086987264",
-              "indices": [
-                112,
-                134
-              ],
-              "media_url": "http://pbs.twimg.com/media/Btx2Vg6IQAABgKo.jpg",
-              "media_url_https": "https://pbs.twimg.com/media/Btx2Vg6IQAABgKo.jpg",
-              "url": "http://t.co/88IAPZfWQn",
-              "display_url": "pic.twitter.com/88IAPZfWQn",
-              "expanded_url": "http://twitter.com/sernaum/status/494400174266261504/photo/1",
-              "type": "photo",
-              "sizes": {
-                "medium": {
-                  "w": 600,
-                  "h": 429,
-                  "resize": "fit"
-                },
-                "small": {
-                  "w": 340,
-                  "h": 243,
-                  "resize": "fit"
-                },
-                "thumb": {
-                  "w": 150,
-                  "h": 150,
-                  "resize": "crop"
-                },
-                "large": {
-                  "w": 960,
-                  "h": 688,
-                  "resize": "fit"
-                }
-              }
-            }
-          ]
-        },
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "ru"
-      },
-      "retweet_count": 11,
+      "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -611,60 +585,19 @@
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "sernaum",
-            "name": "Сергей Наумович",
-            "id": 277942137,
-            "id_str": "277942137",
+            "screen_name": "Pravdiva_pravda",
+            "name": "ПРАВДИВАЯ ПРАВДА",
+            "id": 584522051,
+            "id_str": "584522051",
             "indices": [
-              3,
-              11
+              0,
+              16
             ]
-          }
-        ],
-        "media": [
-          {
-            "id": 494400171086987260,
-            "id_str": "494400171086987264",
-            "indices": [
-              139,
-              140
-            ],
-            "media_url": "http://pbs.twimg.com/media/Btx2Vg6IQAABgKo.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Btx2Vg6IQAABgKo.jpg",
-            "url": "http://t.co/88IAPZfWQn",
-            "display_url": "pic.twitter.com/88IAPZfWQn",
-            "expanded_url": "http://twitter.com/sernaum/status/494400174266261504/photo/1",
-            "type": "photo",
-            "sizes": {
-              "medium": {
-                "w": 600,
-                "h": 429,
-                "resize": "fit"
-              },
-              "small": {
-                "w": 340,
-                "h": 243,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 960,
-                "h": 688,
-                "resize": "fit"
-              }
-            },
-            "source_status_id": 494400174266261500,
-            "source_status_id_str": "494400174266261504"
           }
         ]
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -712,13 +645,13 @@
     "time_zone": "Kyiv",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 4195,
+    "statuses_count": 4198,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:37:27 +0000 2014",
-      "id": 494401373082234900,
-      "id_str": "494401373082234880",
-      "text": "Вурдалаки из фейковых ЛНР/ДНР вдруг стали готовы к переговорам о прекращении огня. Ага. Ща. Переговоры только о капитуляции..",
+      "created_at": "Wed Jul 30 08:54:16 +0000 2014",
+      "id": 494405603138498560,
+      "id_str": "494405603138498560",
+      "text": "Результаты правления Путина столь печальны потому что он окружен не хорошими советниками а шакалистыми лизоблюдами.",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -730,7 +663,7 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 3,
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -1093,7 +1026,7 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "favorite_count": 1,
       "entities": {
         "hashtags": [
@@ -1160,7 +1093,7 @@
       }
     },
     "protected": false,
-    "followers_count": 218,
+    "followers_count": 219,
     "friends_count": 97,
     "listed_count": 7,
     "created_at": "Mon Jan 06 17:10:07 +0000 2014",
@@ -1278,13 +1211,13 @@
     "time_zone": "Baghdad",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 8951,
+    "statuses_count": 8953,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:32:55 +0000 2014",
-      "id": 494400232994926600,
-      "id_str": "494400232994926592",
-      "text": "RT @maidanod: Украинская армия освободила Авдеевку и начала зачистку от боевиков города Иловайск /  / Вчера, 29 июля был освобо.. http://t.…",
+      "created_at": "Wed Jul 30 08:51:05 +0000 2014",
+      "id": 494404805109219300,
+      "id_str": "494404805109219328",
+      "text": "все таки жаль, что нас всех объединяет язык агрессора, террориста, оккупанта и садиста...хотя, отдаю должное, русский красивый и удобный...",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -1296,77 +1229,16 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweeted_status": {
-        "created_at": "Wed Jul 30 08:20:06 +0000 2014",
-        "id": 494397004735213600,
-        "id_str": "494397004735213569",
-        "text": "Украинская армия освободила Авдеевку и начала зачистку от боевиков города Иловайск /  / Вчера, 29 июля был освобо.. http://t.co/6oKg7dOh90",
-        "source": "<a href=\"http://vk.com\" rel=\"nofollow\">vk.com pages</a>",
-        "truncated": false,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweet_count": 1,
-        "favorite_count": 0,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "urls": [
-            {
-              "url": "http://t.co/6oKg7dOh90",
-              "expanded_url": "http://vk.cc/2PA7YU",
-              "display_url": "vk.cc/2PA7YU",
-              "indices": [
-                116,
-                138
-              ]
-            }
-          ],
-          "user_mentions": []
-        },
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "ru"
-      },
       "retweet_count": 1,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "urls": [
-          {
-            "url": "http://t.co/6oKg7dOh90",
-            "expanded_url": "http://vk.cc/2PA7YU",
-            "display_url": "vk.cc/2PA7YU",
-            "indices": [
-              139,
-              140
-            ]
-          }
-        ],
-        "user_mentions": [
-          {
-            "screen_name": "maidanod",
-            "name": "Майдан |#Одеса ",
-            "id": 2312043637,
-            "id_str": "2312043637",
-            "indices": [
-              3,
-              12
-            ]
-          }
-        ]
+        "urls": [],
+        "user_mentions": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -2070,7 +1942,7 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 21,
+        "retweet_count": 23,
         "favorite_count": 4,
         "entities": {
           "hashtags": [],
@@ -2121,7 +1993,7 @@
         "possibly_sensitive": false,
         "lang": "ru"
       },
-      "retweet_count": 21,
+      "retweet_count": 23,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -2350,8 +2222,8 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 161,
-        "favorite_count": 41,
+        "retweet_count": 164,
+        "favorite_count": 43,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -2414,7 +2286,7 @@
         "possibly_sensitive": false,
         "lang": "ru"
       },
-      "retweet_count": 161,
+      "retweet_count": 164,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -2846,13 +2718,13 @@
     "time_zone": "Baghdad",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 715,
+    "statuses_count": 717,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 07:49:19 +0000 2014",
-      "id": 494389259164319740,
-      "id_str": "494389259164319744",
-      "text": "RT @ChechenCenter: Дудаев: \"Я бы хотел чтобы Чеченская Республика была конституционным светским государством. К этому мы стремимся...\"  htt…",
+      "created_at": "Wed Jul 30 08:46:33 +0000 2014",
+      "id": 494403664690163700,
+      "id_str": "494403664690163712",
+      "text": "RT @OlchaTihiro: @jonny_socker стрелки на футболках означают, что ребята переводят стрелки при малейшем шухере",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -2865,76 +2737,75 @@
       "place": null,
       "contributors": null,
       "retweeted_status": {
-        "created_at": "Wed Jul 30 07:48:46 +0000 2014",
-        "id": 494389120890708000,
-        "id_str": "494389120890707970",
-        "text": "Дудаев: \"Я бы хотел чтобы Чеченская Республика была конституционным светским государством. К этому мы стремимся...\"  http://t.co/hCvTMhIVbO",
-        "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+        "created_at": "Wed Jul 30 07:59:34 +0000 2014",
+        "id": 494391839529918460,
+        "id_str": "494391839529918465",
+        "text": "@jonny_socker стрелки на футболках означают, что ребята переводят стрелки при малейшем шухере",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
         "truncated": false,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": 494388397427798000,
+        "in_reply_to_status_id_str": "494388397427798016",
+        "in_reply_to_user_id": 2443806792,
+        "in_reply_to_user_id_str": "2443806792",
+        "in_reply_to_screen_name": "jonny_socker",
         "geo": null,
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 5,
-        "favorite_count": 1,
+        "retweet_count": 1,
+        "favorite_count": 0,
         "entities": {
           "hashtags": [],
           "symbols": [],
-          "urls": [
+          "urls": [],
+          "user_mentions": [
             {
-              "url": "http://t.co/hCvTMhIVbO",
-              "expanded_url": "http://www.krugozormagazine.com/show/Kavkaz.1875.html",
-              "display_url": "krugozormagazine.com/show/Kavkaz.18…",
+              "screen_name": "jonny_socker",
+              "name": "Хуйовий ХТЗ",
+              "id": 2443806792,
+              "id_str": "2443806792",
               "indices": [
-                117,
-                139
+                0,
+                13
               ]
             }
-          ],
-          "user_mentions": []
+          ]
         },
         "favorited": false,
         "retweeted": false,
-        "possibly_sensitive": false,
         "lang": "ru"
       },
-      "retweet_count": 5,
+      "retweet_count": 1,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "urls": [
-          {
-            "url": "http://t.co/hCvTMhIVbO",
-            "expanded_url": "http://www.krugozormagazine.com/show/Kavkaz.1875.html",
-            "display_url": "krugozormagazine.com/show/Kavkaz.18…",
-            "indices": [
-              139,
-              140
-            ]
-          }
-        ],
+        "urls": [],
         "user_mentions": [
           {
-            "screen_name": "ChechenCenter",
-            "name": "Chechen Center",
-            "id": 247495419,
-            "id_str": "247495419",
+            "screen_name": "OlchaTihiro",
+            "name": "Olcha Tihiro",
+            "id": 288924900,
+            "id_str": "288924900",
             "indices": [
               3,
-              17
+              15
+            ]
+          },
+          {
+            "screen_name": "jonny_socker",
+            "name": "Хуйовий ХТЗ",
+            "id": 2443806792,
+            "id_str": "2443806792",
+            "indices": [
+              17,
+              30
             ]
           }
         ]
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -3000,7 +2871,7 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 7,
+      "retweet_count": 11,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -3221,8 +3092,8 @@
           "attributes": {}
         },
         "contributors": null,
-        "retweet_count": 373,
-        "favorite_count": 107,
+        "retweet_count": 379,
+        "favorite_count": 111,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3233,7 +3104,7 @@
         "retweeted": true,
         "lang": "ru"
       },
-      "retweet_count": 373,
+      "retweet_count": 379,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -3561,7 +3432,7 @@
       }
     },
     "protected": false,
-    "followers_count": 236,
+    "followers_count": 237,
     "friends_count": 115,
     "listed_count": 6,
     "created_at": "Sun Sep 08 19:15:50 +0000 2013",
@@ -3855,8 +3726,8 @@
           "attributes": {}
         },
         "contributors": null,
-        "retweet_count": 373,
-        "favorite_count": 107,
+        "retweet_count": 379,
+        "favorite_count": 111,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -3867,7 +3738,7 @@
         "retweeted": true,
         "lang": "ru"
       },
-      "retweet_count": 373,
+      "retweet_count": 379,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -4261,8 +4132,8 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 36,
-        "favorite_count": 13,
+        "retweet_count": 45,
+        "favorite_count": 17,
         "entities": {
           "hashtags": [
             {
@@ -4288,7 +4159,7 @@
         "retweeted": false,
         "lang": "ru"
       },
-      "retweet_count": 36,
+      "retweet_count": 45,
       "favorite_count": 0,
       "entities": {
         "hashtags": [
@@ -4792,8 +4663,8 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 201,
-        "favorite_count": 39,
+        "retweet_count": 209,
+        "favorite_count": 42,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -4804,7 +4675,7 @@
         "retweeted": true,
         "lang": "ru"
       },
-      "retweet_count": 201,
+      "retweet_count": 209,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -4919,8 +4790,8 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 20,
-        "favorite_count": 17,
+        "retweet_count": 30,
+        "favorite_count": 20,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -4942,7 +4813,7 @@
         "possibly_sensitive": false,
         "lang": "ru"
       },
-      "retweet_count": 20,
+      "retweet_count": 30,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -5098,29 +4969,29 @@
       }
     },
     "protected": false,
-    "followers_count": 1559,
+    "followers_count": 1560,
     "friends_count": 353,
     "listed_count": 24,
     "created_at": "Sun Apr 13 19:11:27 +0000 2014",
-    "favourites_count": 789,
+    "favourites_count": 790,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 8520,
+    "statuses_count": 8523,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:38:04 +0000 2014",
-      "id": 494401529164476400,
-      "id_str": "494401529164476416",
-      "text": "\"Самооборона стряхнула балласт – остались лучшие рейнджеры\"\n\nЛучшие рейнджеры дикого запада.Какой пиздец.",
+      "created_at": "Wed Jul 30 08:52:24 +0000 2014",
+      "id": 494405137063215100,
+      "id_str": "494405137063215104",
+      "text": "@qw5164 Ну в наше время все равно не очень бомбит от Ме́ркьюри даже в России",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 494404620899594240,
+      "in_reply_to_status_id_str": "494404620899594240",
+      "in_reply_to_user_id": 2322650064,
+      "in_reply_to_user_id_str": "2322650064",
+      "in_reply_to_screen_name": "qw5164",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -5131,7 +5002,18 @@
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "screen_name": "qw5164",
+            "name": "^(*&#$@!",
+            "id": 2322650064,
+            "id_str": "2322650064",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
@@ -5496,8 +5378,8 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 138,
-        "favorite_count": 27,
+        "retweet_count": 182,
+        "favorite_count": 35,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -5547,7 +5429,7 @@
         "possibly_sensitive": false,
         "lang": "ru"
       },
-      "retweet_count": 138,
+      "retweet_count": 182,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -5690,7 +5572,7 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 71,
+        "retweet_count": 75,
         "favorite_count": 3,
         "entities": {
           "hashtags": [],
@@ -5724,7 +5606,7 @@
         "possibly_sensitive": false,
         "lang": "ru"
       },
-      "retweet_count": 71,
+      "retweet_count": 75,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -5859,8 +5741,8 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 201,
-        "favorite_count": 39,
+        "retweet_count": 209,
+        "favorite_count": 42,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -5871,7 +5753,7 @@
         "retweeted": true,
         "lang": "ru"
       },
-      "retweet_count": 201,
+      "retweet_count": 209,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -5930,7 +5812,7 @@
       }
     },
     "protected": false,
-    "followers_count": 663,
+    "followers_count": 664,
     "friends_count": 433,
     "listed_count": 8,
     "created_at": "Wed Jun 18 17:23:25 +0000 2014",
@@ -6806,22 +6688,22 @@
       }
     },
     "protected": false,
-    "followers_count": 407,
-    "friends_count": 531,
+    "followers_count": 410,
+    "friends_count": 585,
     "listed_count": 7,
     "created_at": "Thu Jul 25 07:50:19 +0000 2013",
-    "favourites_count": 1334,
+    "favourites_count": 1335,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 2848,
+    "statuses_count": 2851,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:10:40 +0000 2014",
-      "id": 494394632504356860,
-      "id_str": "494394632504356864",
-      "text": "RT @tombreadley: Подстилка террористов Шкода в Москве. Шкода, шо жива. http://t.co/220eJXxP20",
+      "created_at": "Wed Jul 30 08:55:37 +0000 2014",
+      "id": 494405943472701440,
+      "id_str": "494405943472701441",
+      "text": "RT @tombreadley: Живая скульптура в Одессе. http://t.co/Rl5XMvbmOY",
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -6834,10 +6716,10 @@
       "place": null,
       "contributors": null,
       "retweeted_status": {
-        "created_at": "Wed Jul 30 07:53:04 +0000 2014",
-        "id": 494390204690477060,
-        "id_str": "494390204690477057",
-        "text": "Подстилка террористов Шкода в Москве. Шкода, шо жива. http://t.co/220eJXxP20",
+        "created_at": "Wed Jul 30 08:23:49 +0000 2014",
+        "id": 494397942610939900,
+        "id_str": "494397942610939905",
+        "text": "Живая скульптура в Одессе. http://t.co/Rl5XMvbmOY",
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "truncated": false,
         "in_reply_to_status_id": null,
@@ -6849,8 +6731,8 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 35,
-        "favorite_count": 7,
+        "retweet_count": 62,
+        "favorite_count": 21,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -6858,24 +6740,19 @@
           "user_mentions": [],
           "media": [
             {
-              "id": 494390202966618100,
-              "id_str": "494390202966618112",
+              "id": 494397940908040200,
+              "id_str": "494397940908040192",
               "indices": [
-                54,
-                76
+                27,
+                49
               ],
-              "media_url": "http://pbs.twimg.com/media/BtxtRSxCMAAns5y.jpg",
-              "media_url_https": "https://pbs.twimg.com/media/BtxtRSxCMAAns5y.jpg",
-              "url": "http://t.co/220eJXxP20",
-              "display_url": "pic.twitter.com/220eJXxP20",
-              "expanded_url": "http://twitter.com/tombreadley/status/494390204690477057/photo/1",
+              "media_url": "http://pbs.twimg.com/media/Btx0Ts2CIAAtBB7.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Btx0Ts2CIAAtBB7.jpg",
+              "url": "http://t.co/Rl5XMvbmOY",
+              "display_url": "pic.twitter.com/Rl5XMvbmOY",
+              "expanded_url": "http://twitter.com/tombreadley/status/494397942610939905/photo/1",
               "type": "photo",
               "sizes": {
-                "medium": {
-                  "w": 485,
-                  "h": 485,
-                  "resize": "fit"
-                },
                 "thumb": {
                   "w": 150,
                   "h": 150,
@@ -6883,12 +6760,17 @@
                 },
                 "small": {
                   "w": 340,
-                  "h": 340,
+                  "h": 453,
                   "resize": "fit"
                 },
                 "large": {
-                  "w": 485,
-                  "h": 485,
+                  "w": 720,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 800,
                   "resize": "fit"
                 }
               }
@@ -6900,7 +6782,7 @@
         "possibly_sensitive": false,
         "lang": "ru"
       },
-      "retweet_count": 35,
+      "retweet_count": 62,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -6920,24 +6802,19 @@
         ],
         "media": [
           {
-            "id": 494390202966618100,
-            "id_str": "494390202966618112",
+            "id": 494397940908040200,
+            "id_str": "494397940908040192",
             "indices": [
-              71,
-              93
+              44,
+              66
             ],
-            "media_url": "http://pbs.twimg.com/media/BtxtRSxCMAAns5y.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BtxtRSxCMAAns5y.jpg",
-            "url": "http://t.co/220eJXxP20",
-            "display_url": "pic.twitter.com/220eJXxP20",
-            "expanded_url": "http://twitter.com/tombreadley/status/494390204690477057/photo/1",
+            "media_url": "http://pbs.twimg.com/media/Btx0Ts2CIAAtBB7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Btx0Ts2CIAAtBB7.jpg",
+            "url": "http://t.co/Rl5XMvbmOY",
+            "display_url": "pic.twitter.com/Rl5XMvbmOY",
+            "expanded_url": "http://twitter.com/tombreadley/status/494397942610939905/photo/1",
             "type": "photo",
             "sizes": {
-              "medium": {
-                "w": 485,
-                "h": 485,
-                "resize": "fit"
-              },
               "thumb": {
                 "w": 150,
                 "h": 150,
@@ -6945,17 +6822,22 @@
               },
               "small": {
                 "w": 340,
-                "h": 340,
+                "h": 453,
                 "resize": "fit"
               },
               "large": {
-                "w": 485,
-                "h": 485,
+                "w": 720,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
                 "resize": "fit"
               }
             },
-            "source_status_id": 494390204690477060,
-            "source_status_id_str": "494390204690477057"
+            "source_status_id": 494397942610939900,
+            "source_status_id_str": "494397942610939905"
           }
         ]
       },
@@ -7094,7 +6976,7 @@
       }
     },
     "protected": false,
-    "followers_count": 2140,
+    "followers_count": 2141,
     "friends_count": 219,
     "listed_count": 41,
     "created_at": "Sat Apr 09 20:05:25 +0000 2011",
@@ -7103,25 +6985,103 @@
     "time_zone": "Greenland",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 10502,
+    "statuses_count": 10511,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:37:55 +0000 2014",
-      "id": 494401489834889200,
-      "id_str": "494401489834889216",
-      "text": "@DNikitich спасибо, но они не забанят, зато больше вылезет уёбков для бага))",
+      "created_at": "Wed Jul 30 08:48:22 +0000 2014",
+      "id": 494404119739007000,
+      "id_str": "494404119739006976",
+      "text": "RT @SherlDn: ДЕВОЧКИ!СРОЧНО НАДО ОТОМСТИТЬ ЗА НАШЕГО ЛЮБИМОГО @xy_ukr !!!БАНИМ БЕССЛАВНОГО УБЛЮДКА и его друзей!Мальчики помогаем) http://t…",
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
-      "in_reply_to_status_id": 494389148858724350,
-      "in_reply_to_status_id_str": "494389148858724352",
-      "in_reply_to_user_id": 2688242320,
-      "in_reply_to_user_id_str": "2688242320",
-      "in_reply_to_screen_name": "DNikitich",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Wed Jul 30 08:09:44 +0000 2014",
+        "id": 494394398311194600,
+        "id_str": "494394398311194625",
+        "text": "ДЕВОЧКИ!СРОЧНО НАДО ОТОМСТИТЬ ЗА НАШЕГО ЛЮБИМОГО @xy_ukr !!!БАНИМ БЕССЛАВНОГО УБЛЮДКА и его друзей!Мальчики помогаем) http://t.co/YqBmt3ygDQ",
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 17,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "xy_ukr",
+              "name": "Хуёвый Укроп",
+              "id": 279686471,
+              "id_str": "279686471",
+              "indices": [
+                49,
+                56
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 494394393676484600,
+              "id_str": "494394393676484608",
+              "indices": [
+                118,
+                140
+              ],
+              "media_url": "http://pbs.twimg.com/media/BtxxFOYIEAA3J5v.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/BtxxFOYIEAA3J5v.jpg",
+              "url": "http://t.co/YqBmt3ygDQ",
+              "display_url": "pic.twitter.com/YqBmt3ygDQ",
+              "expanded_url": "http://twitter.com/SherlDn/status/494394398311194625/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 768,
+                  "h": 1024,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 17,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -7129,19 +7089,70 @@
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "DNikitich",
-            "name": "Dobrinya Nikitich",
-            "id": 2688242320,
-            "id_str": "2688242320",
+            "screen_name": "SherlDn",
+            "name": "Аннушка",
+            "id": 1080777348,
+            "id_str": "1080777348",
             "indices": [
-              0,
-              10
+              3,
+              11
             ]
+          },
+          {
+            "screen_name": "xy_ukr",
+            "name": "Хуёвый Укроп",
+            "id": 279686471,
+            "id_str": "279686471",
+            "indices": [
+              62,
+              69
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 494394393676484600,
+            "id_str": "494394393676484608",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/BtxxFOYIEAA3J5v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BtxxFOYIEAA3J5v.jpg",
+            "url": "http://t.co/YqBmt3ygDQ",
+            "display_url": "pic.twitter.com/YqBmt3ygDQ",
+            "expanded_url": "http://twitter.com/SherlDn/status/494394398311194625/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 494394398311194600,
+            "source_status_id_str": "494394398311194625"
           }
         ]
       },
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -7189,92 +7200,25 @@
     "time_zone": "Arizona",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 1120,
+    "statuses_count": 1123,
     "lang": "en",
     "status": {
-      "created_at": "Wed Jul 30 08:13:31 +0000 2014",
-      "id": 494395348933046300,
-      "id_str": "494395348933046272",
-      "text": "RT @daunbass: Вот здесь (Макеевка, Советский район) еще утром был блок-пост сепаратов. Вычеркивайте. http://t.co/RgPXOYjDGv",
+      "created_at": "Wed Jul 30 08:55:24 +0000 2014",
+      "id": 494405891228438500,
+      "id_str": "494405891228438528",
+      "text": "@ohueni_nikolaev @agap7180 @xyevii_kharkov единственные пруфы - пара-тройка \"сайтов хлебозавода\" с тем же текстом. Не считается.",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 494405454676910100,
+      "in_reply_to_status_id_str": "494405454676910081",
+      "in_reply_to_user_id": 2476712293,
+      "in_reply_to_user_id_str": "2476712293",
+      "in_reply_to_screen_name": "ohueni_nikolaev",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweeted_status": {
-        "created_at": "Wed Jul 30 08:11:32 +0000 2014",
-        "id": 494394849735761900,
-        "id_str": "494394849735761921",
-        "text": "Вот здесь (Макеевка, Советский район) еще утром был блок-пост сепаратов. Вычеркивайте. http://t.co/RgPXOYjDGv",
-        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-        "truncated": false,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweet_count": 22,
-        "favorite_count": 2,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "urls": [],
-          "user_mentions": [],
-          "media": [
-            {
-              "id": 494394846644162560,
-              "id_str": "494394846644162561",
-              "indices": [
-                87,
-                109
-              ],
-              "media_url": "http://pbs.twimg.com/media/Btxxfl0CUAE_XUt.png",
-              "media_url_https": "https://pbs.twimg.com/media/Btxxfl0CUAE_XUt.png",
-              "url": "http://t.co/RgPXOYjDGv",
-              "display_url": "pic.twitter.com/RgPXOYjDGv",
-              "expanded_url": "http://twitter.com/daunbass/status/494394849735761921/photo/1",
-              "type": "photo",
-              "sizes": {
-                "thumb": {
-                  "w": 150,
-                  "h": 150,
-                  "resize": "crop"
-                },
-                "small": {
-                  "w": 340,
-                  "h": 603,
-                  "resize": "fit"
-                },
-                "large": {
-                  "w": 640,
-                  "h": 1136,
-                  "resize": "fit"
-                },
-                "medium": {
-                  "w": 600,
-                  "h": 1065,
-                  "resize": "fit"
-                }
-              }
-            }
-          ]
-        },
-        "favorited": false,
-        "retweeted": false,
-        "possibly_sensitive": false,
-        "lang": "ru"
-      },
-      "retweet_count": 22,
+      "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -7282,60 +7226,39 @@
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "daunbass",
-            "name": "Новости Даунбасса",
-            "id": 2520165992,
-            "id_str": "2520165992",
+            "screen_name": "ohueni_nikolaev",
+            "name": "Охуенный Николаев",
+            "id": 2476712293,
+            "id_str": "2476712293",
             "indices": [
-              3,
-              12
+              0,
+              16
             ]
-          }
-        ],
-        "media": [
+          },
           {
-            "id": 494394846644162560,
-            "id_str": "494394846644162561",
+            "screen_name": "agap7180",
+            "name": "Хуёвый Кривбасс ",
+            "id": 2260645181,
+            "id_str": "2260645181",
             "indices": [
-              101,
-              123
-            ],
-            "media_url": "http://pbs.twimg.com/media/Btxxfl0CUAE_XUt.png",
-            "media_url_https": "https://pbs.twimg.com/media/Btxxfl0CUAE_XUt.png",
-            "url": "http://t.co/RgPXOYjDGv",
-            "display_url": "pic.twitter.com/RgPXOYjDGv",
-            "expanded_url": "http://twitter.com/daunbass/status/494394849735761921/photo/1",
-            "type": "photo",
-            "sizes": {
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "small": {
-                "w": 340,
-                "h": 603,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 640,
-                "h": 1136,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 600,
-                "h": 1065,
-                "resize": "fit"
-              }
-            },
-            "source_status_id": 494394849735761900,
-            "source_status_id_str": "494394849735761921"
+              17,
+              26
+            ]
+          },
+          {
+            "screen_name": "xyevii_kharkov",
+            "name": "Хуёвый Харьков",
+            "id": 2368693591,
+            "id_str": "2368693591",
+            "indices": [
+              27,
+              42
+            ]
           }
         ]
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -7823,13 +7746,13 @@
     "time_zone": "Baghdad",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 19096,
+    "statuses_count": 19103,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:33:11 +0000 2014",
-      "id": 494400301135577100,
-      "id_str": "494400301135577088",
-      "text": "RT @mexiqebuho: красиво почморили толстожопого из министерства  3,40 - 6,00 и с 6,51 https://t.co/MxUA6tl5i8",
+      "created_at": "Wed Jul 30 08:53:49 +0000 2014",
+      "id": 494405489883893760,
+      "id_str": "494405489883893760",
+      "text": "RT @zn_ua: Обнародована запись телефонного разговора боевиков о расстреле авто с детьми\n\nhttp://t.co/AXaNjbiGQ8 http://t.co/7yE96heRi2",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -7842,10 +7765,10 @@
       "place": null,
       "contributors": null,
       "retweeted_status": {
-        "created_at": "Wed Jul 30 08:23:24 +0000 2014",
-        "id": 494397836881301500,
-        "id_str": "494397836881301504",
-        "text": "красиво почморили толстожопого из министерства  3,40 - 6,00 и с 6,51 https://t.co/MxUA6tl5i8",
+        "created_at": "Wed Jul 30 08:52:40 +0000 2014",
+        "id": 494405202729246700,
+        "id_str": "494405202729246720",
+        "text": "Обнародована запись телефонного разговора боевиков о расстреле авто с детьми\n\nhttp://t.co/AXaNjbiGQ8 http://t.co/7yE96heRi2",
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
         "truncated": false,
         "in_reply_to_status_id": null,
@@ -7857,55 +7780,133 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 3,
-        "favorite_count": 0,
+        "retweet_count": 7,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [],
           "symbols": [],
           "urls": [
             {
-              "url": "https://t.co/MxUA6tl5i8",
-              "expanded_url": "https://www.youtube.com/watch?v=iF92vk7N3zc",
-              "display_url": "youtube.com/watch?v=iF92vk…",
+              "url": "http://t.co/AXaNjbiGQ8",
+              "expanded_url": "http://zn.ua/UKRAINE/obnarodovana-zapis-telefonnogo-razgovora-boevikov-o-rasstrele-avto-s-detmi-149899_.html",
+              "display_url": "zn.ua/UKRAINE/obnaro…",
               "indices": [
-                69,
-                92
+                78,
+                100
               ]
             }
           ],
-          "user_mentions": []
+          "user_mentions": [],
+          "media": [
+            {
+              "id": 494405201508311040,
+              "id_str": "494405201508311040",
+              "indices": [
+                101,
+                123
+              ],
+              "media_url": "http://pbs.twimg.com/media/Btx66UsCIAAi3Q1.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Btx66UsCIAAi3Q1.jpg",
+              "url": "http://t.co/7yE96heRi2",
+              "display_url": "pic.twitter.com/7yE96heRi2",
+              "expanded_url": "http://twitter.com/zn_ua/status/494405202729246720/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 600,
+                  "h": 399,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 226,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 614,
+                  "h": 409,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
         },
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
         "lang": "ru"
       },
-      "retweet_count": 3,
+      "retweet_count": 7,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "urls": [
           {
-            "url": "https://t.co/MxUA6tl5i8",
-            "expanded_url": "https://www.youtube.com/watch?v=iF92vk7N3zc",
-            "display_url": "youtube.com/watch?v=iF92vk…",
+            "url": "http://t.co/AXaNjbiGQ8",
+            "expanded_url": "http://zn.ua/UKRAINE/obnarodovana-zapis-telefonnogo-razgovora-boevikov-o-rasstrele-avto-s-detmi-149899_.html",
+            "display_url": "zn.ua/UKRAINE/obnaro…",
             "indices": [
-              85,
-              108
+              89,
+              111
             ]
           }
         ],
         "user_mentions": [
           {
-            "screen_name": "mexiqebuho",
-            "name": "Хуёвая Вата",
-            "id": 430103604,
-            "id_str": "430103604",
+            "screen_name": "zn_ua",
+            "name": "ZN.UA",
+            "id": 156617684,
+            "id_str": "156617684",
             "indices": [
               3,
-              14
+              9
             ]
+          }
+        ],
+        "media": [
+          {
+            "id": 494405201508311040,
+            "id_str": "494405201508311040",
+            "indices": [
+              112,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Btx66UsCIAAi3Q1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Btx66UsCIAAi3Q1.jpg",
+            "url": "http://t.co/7yE96heRi2",
+            "display_url": "pic.twitter.com/7yE96heRi2",
+            "expanded_url": "http://twitter.com/zn_ua/status/494405202729246720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 399,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 614,
+                "h": 409,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 494405202729246700,
+            "source_status_id_str": "494405202729246720"
           }
         ]
       },
@@ -7950,7 +7951,7 @@
       }
     },
     "protected": false,
-    "followers_count": 541,
+    "followers_count": 542,
     "friends_count": 240,
     "listed_count": 6,
     "created_at": "Fri Jun 06 09:22:32 +0000 2014",
@@ -7959,20 +7960,20 @@
     "time_zone": "Baghdad",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 3697,
+    "statuses_count": 3700,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:36:37 +0000 2014",
-      "id": 494401165249876000,
-      "id_str": "494401165249875969",
-      "text": "@zakon18022014 скорее всего наши глушат связь наоборот.",
+      "created_at": "Wed Jul 30 08:47:57 +0000 2014",
+      "id": 494404015514337300,
+      "id_str": "494404015514337280",
+      "text": "@hu_Zaporizhzhya @InsideDNR @YevhenS асавелюк на Крамаховском аэродроме все время был. там его подшефные - спецназ нацгвардии.",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 494400888480735200,
-      "in_reply_to_status_id_str": "494400888480735232",
-      "in_reply_to_user_id": 1370170730,
-      "in_reply_to_user_id_str": "1370170730",
-      "in_reply_to_screen_name": "zakon18022014",
+      "in_reply_to_status_id": 494387575906660350,
+      "in_reply_to_status_id_str": "494387575906660352",
+      "in_reply_to_user_id": 2205050931,
+      "in_reply_to_user_id_str": "2205050931",
+      "in_reply_to_screen_name": "hu_Zaporizhzhya",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -7985,13 +7986,33 @@
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "zakon18022014",
-            "name": "оХуенный Артемовск ",
-            "id": 1370170730,
-            "id_str": "1370170730",
+            "screen_name": "hu_Zaporizhzhya",
+            "name": "Хуйове Запоріжжя",
+            "id": 2205050931,
+            "id_str": "2205050931",
             "indices": [
               0,
-              14
+              16
+            ]
+          },
+          {
+            "screen_name": "InsideDNR",
+            "name": "Хуевый житель ДНР",
+            "id": 67566718,
+            "id_str": "67566718",
+            "indices": [
+              17,
+              27
+            ]
+          },
+          {
+            "screen_name": "YevhenS",
+            "name": "Ледокоин Гетьмана",
+            "id": 2422988518,
+            "id_str": "2422988518",
+            "indices": [
+              28,
+              36
             ]
           }
         ]
@@ -8122,7 +8143,7 @@
       }
     },
     "protected": false,
-    "followers_count": 478,
+    "followers_count": 479,
     "friends_count": 48,
     "listed_count": 6,
     "created_at": "Sun Jun 08 18:55:43 +0000 2014",
@@ -9526,8 +9547,8 @@
       }
     },
     "protected": false,
-    "followers_count": 27949,
-    "friends_count": 1894,
+    "followers_count": 27950,
+    "friends_count": 1893,
     "listed_count": 278,
     "created_at": "Fri Sep 06 19:23:06 +0000 2013",
     "favourites_count": 0,
@@ -9535,13 +9556,13 @@
     "time_zone": "Baghdad",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 20776,
+    "statuses_count": 20781,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 07:19:22 +0000 2014",
-      "id": 494381720704385000,
-      "id_str": "494381720704385024",
-      "text": "RT @news24hukr: \"ДНР\" и \"ЛНР\" готовы к переговорам о прекращении огня - А.Пургин: КИЕВ. 30 июля. УНН. Так называемое руководст... http://t.…",
+      "created_at": "Wed Jul 30 08:51:18 +0000 2014",
+      "id": 494404857856790500,
+      "id_str": "494404857856790528",
+      "text": "RT @RadioLemberg: Толковый словарь велікорусского наречія (!) русского языка (В.Даль, 1801-1872) http://t.co/wAYNVOt45T",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -9554,11 +9575,11 @@
       "place": null,
       "contributors": null,
       "retweeted_status": {
-        "created_at": "Wed Jul 30 07:17:00 +0000 2014",
-        "id": 494381128090783740,
-        "id_str": "494381128090783744",
-        "text": "\"ДНР\" и \"ЛНР\" готовы к переговорам о прекращении огня - А.Пургин: КИЕВ. 30 июля. УНН. Так называемое руководст... http://t.co/S7ajsfHB1I",
-        "source": "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+        "created_at": "Wed Jul 30 00:04:25 +0000 2014",
+        "id": 494272264834400260,
+        "id_str": "494272264834400256",
+        "text": "Толковый словарь велікорусского наречія (!) русского языка (В.Даль, 1801-1872) http://t.co/wAYNVOt45T",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
         "truncated": false,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
@@ -9569,62 +9590,120 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 18,
-        "favorite_count": 1,
+        "retweet_count": 77,
+        "favorite_count": 39,
         "entities": {
           "hashtags": [],
           "symbols": [],
-          "urls": [
+          "urls": [],
+          "user_mentions": [],
+          "media": [
             {
-              "url": "http://t.co/S7ajsfHB1I",
-              "expanded_url": "http://news24h.allnews24h.com/CALe",
-              "display_url": "news24h.allnews24h.com/CALe",
+              "id": 494272262435274750,
+              "id_str": "494272262435274752",
               "indices": [
-                114,
-                136
-              ]
+                79,
+                101
+              ],
+              "media_url": "http://pbs.twimg.com/media/BtwCAQDIgAAFwOB.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/BtwCAQDIgAAFwOB.jpg",
+              "url": "http://t.co/wAYNVOt45T",
+              "display_url": "pic.twitter.com/wAYNVOt45T",
+              "expanded_url": "http://twitter.com/RadioLemberg/status/494272264834400256/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 600,
+                  "h": 280,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 159,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 966,
+                  "h": 452,
+                  "resize": "fit"
+                }
+              }
             }
-          ],
-          "user_mentions": []
+          ]
         },
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
-        "lang": "ru"
+        "lang": "uk"
       },
-      "retweet_count": 18,
+      "retweet_count": 77,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "urls": [
+        "urls": [],
+        "user_mentions": [
           {
-            "url": "http://t.co/S7ajsfHB1I",
-            "expanded_url": "http://news24h.allnews24h.com/CALe",
-            "display_url": "news24h.allnews24h.com/CALe",
+            "screen_name": "RadioLemberg",
+            "name": "Radio Lemberg",
+            "id": 2570831198,
+            "id_str": "2570831198",
             "indices": [
-              139,
-              140
+              3,
+              16
             ]
           }
         ],
-        "user_mentions": [
+        "media": [
           {
-            "screen_name": "news24hukr",
-            "name": "News 24h Ukraine",
-            "id": 2356351802,
-            "id_str": "2356351802",
+            "id": 494272262435274750,
+            "id_str": "494272262435274752",
             "indices": [
-              3,
-              14
-            ]
+              97,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/BtwCAQDIgAAFwOB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/BtwCAQDIgAAFwOB.jpg",
+            "url": "http://t.co/wAYNVOt45T",
+            "display_url": "pic.twitter.com/wAYNVOt45T",
+            "expanded_url": "http://twitter.com/RadioLemberg/status/494272264834400256/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 280,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 159,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 966,
+                "h": 452,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 494272264834400260,
+            "source_status_id_str": "494272264834400256"
           }
         ]
       },
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
-      "lang": "ru"
+      "lang": "uk"
     },
     "contributors_enabled": false,
     "is_translator": false,
@@ -9802,7 +9881,7 @@
         "place": null,
         "contributors": null,
         "retweet_count": 20,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "entities": {
           "hashtags": [
             {
@@ -10217,7 +10296,7 @@
       }
     },
     "protected": false,
-    "followers_count": 803,
+    "followers_count": 804,
     "friends_count": 237,
     "listed_count": 9,
     "created_at": "Fri May 30 11:01:10 +0000 2014",
@@ -10303,7 +10382,7 @@
       }
     },
     "protected": false,
-    "followers_count": 551,
+    "followers_count": 550,
     "friends_count": 534,
     "listed_count": 10,
     "created_at": "Thu Dec 29 00:00:09 +0000 2011",
@@ -10346,7 +10425,7 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 8,
+        "retweet_count": 9,
         "favorite_count": 1,
         "entities": {
           "hashtags": [],
@@ -10358,7 +10437,7 @@
         "retweeted": false,
         "lang": "ru"
       },
-      "retweet_count": 8,
+      "retweet_count": 9,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -10429,7 +10508,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1531,
+    "followers_count": 1532,
     "friends_count": 157,
     "listed_count": 25,
     "created_at": "Sat May 31 07:18:09 +0000 2014",
@@ -10525,7 +10604,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1829,
+    "followers_count": 1831,
     "friends_count": 348,
     "listed_count": 23,
     "created_at": "Tue Jun 03 14:38:26 +0000 2014",
@@ -10552,7 +10631,7 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 6,
+      "retweet_count": 7,
       "favorite_count": 2,
       "entities": {
         "hashtags": [],
@@ -10654,8 +10733,8 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 6,
-        "favorite_count": 2,
+        "retweet_count": 8,
+        "favorite_count": 3,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -10707,7 +10786,7 @@
         "possibly_sensitive": true,
         "lang": "ru"
       },
-      "retweet_count": 6,
+      "retweet_count": 8,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -11415,8 +11494,8 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 81,
-        "favorite_count": 28,
+        "retweet_count": 82,
+        "favorite_count": 29,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -11427,7 +11506,7 @@
         "retweeted": true,
         "lang": "ru"
       },
-      "retweet_count": 81,
+      "retweet_count": 82,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -11572,7 +11651,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1616,
+    "followers_count": 1618,
     "friends_count": 181,
     "listed_count": 16,
     "created_at": "Fri Aug 21 09:19:39 +0000 2009",
@@ -11581,25 +11660,53 @@
     "time_zone": "Cairo",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 3721,
+    "statuses_count": 3728,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:39:40 +0000 2014",
-      "id": 494401931390230500,
-      "id_str": "494401931390230528",
-      "text": "@evolutionix33 ээх, я бы тож отметил... но не смогу приехать))",
+      "created_at": "Wed Jul 30 08:50:30 +0000 2014",
+      "id": 494404658686083100,
+      "id_str": "494404658686083072",
+      "text": "RT @EVSakal: Ладно, спросим по другому, никто не знает, как найти здохшую, но неизвестно где воняющую на весь офис крысу?",
       "source": "<a href=\"https://play.google.com/store/apps/details?id=org.mariotaku.twidere\" rel=\"nofollow\">Twidere for Android #2</a>",
       "truncated": false,
-      "in_reply_to_status_id": 494394869339926500,
-      "in_reply_to_status_id_str": "494394869339926528",
-      "in_reply_to_user_id": 2568249323,
-      "in_reply_to_user_id_str": "2568249323",
-      "in_reply_to_screen_name": "evolutionix33",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Wed Jul 30 07:51:52 +0000 2014",
+        "id": 494389902361247740,
+        "id_str": "494389902361247744",
+        "text": "Ладно, спросим по другому, никто не знает, как найти здохшую, но неизвестно где воняющую на весь офис крысу?",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 3,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -11607,13 +11714,13 @@
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "evolutionix33",
-            "name": "Артем Яковлев",
-            "id": 2568249323,
-            "id_str": "2568249323",
+            "screen_name": "EVSakal",
+            "name": "Evgen Sakal",
+            "id": 375078364,
+            "id_str": "375078364",
             "indices": [
-              0,
-              14
+              3,
+              11
             ]
           }
         ]
@@ -11658,7 +11765,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1407,
+    "followers_count": 1408,
     "friends_count": 5,
     "listed_count": 26,
     "created_at": "Thu Feb 27 21:36:10 +0000 2014",
@@ -11744,7 +11851,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1308,
+    "followers_count": 1309,
     "friends_count": 174,
     "listed_count": 16,
     "created_at": "Tue May 24 20:01:58 +0000 2011",
@@ -12200,7 +12307,7 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 26,
+      "retweet_count": 30,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -12633,13 +12740,13 @@
     "time_zone": "Athens",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 5737,
+    "statuses_count": 5742,
     "lang": "uk",
     "status": {
-      "created_at": "Wed Jul 30 08:39:13 +0000 2014",
-      "id": 494401815782629400,
-      "id_str": "494401815782629376",
-      "text": "У Донецькій області за добу загинуло 19 людей, 31 поранено.\nВ місті Луганську за добу 1 загинул, 10 отримали поранення.",
+      "created_at": "Wed Jul 30 08:55:30 +0000 2014",
+      "id": 494405915035303940,
+      "id_str": "494405915035303936",
+      "text": "RT @StopFakingNews: Украинское издание Цензор.нет опубликовало «отфотошопленную» фотографию российского военного http://t.co/yexSo9bdcK @St…",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -12651,17 +12758,99 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Wed Jul 30 08:54:07 +0000 2014",
+        "id": 494405565838159900,
+        "id_str": "494405565838159872",
+        "text": "Украинское издание Цензор.нет опубликовало «отфотошопленную» фотографию российского военного http://t.co/yexSo9bdcK @StopFakingNews",
+        "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/yexSo9bdcK",
+              "expanded_url": "http://www.stopfake.org/ukrainskoe-izdanie-tsenzor-net-opublikovalo-otfotoshoplennuyu-fotografiyu-rossijskogo-voennogo/",
+              "display_url": "stopfake.org/ukrainskoe-izd…",
+              "indices": [
+                93,
+                115
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "StopFakingNews",
+              "name": "Stop Fake",
+              "id": 2383088793,
+              "id_str": "2383088793",
+              "indices": [
+                116,
+                131
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 6,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "urls": [],
-        "user_mentions": []
+        "urls": [
+          {
+            "url": "http://t.co/yexSo9bdcK",
+            "expanded_url": "http://www.stopfake.org/ukrainskoe-izdanie-tsenzor-net-opublikovalo-otfotoshoplennuyu-fotografiyu-rossijskogo-voennogo/",
+            "display_url": "stopfake.org/ukrainskoe-izd…",
+            "indices": [
+              113,
+              135
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "StopFakingNews",
+            "name": "Stop Fake",
+            "id": 2383088793,
+            "id_str": "2383088793",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "StopFakingNews",
+            "name": "Stop Fake",
+            "id": 2383088793,
+            "id_str": "2383088793",
+            "indices": [
+              136,
+              140
+            ]
+          }
+        ]
       },
       "favorited": false,
-      "retweeted": false,
-      "lang": "uk"
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
     },
     "contributors_enabled": false,
     "is_translator": false,
@@ -12838,7 +13027,7 @@
     "friends_count": 752,
     "listed_count": 14,
     "created_at": "Wed May 21 21:14:00 +0000 2014",
-    "favourites_count": 885,
+    "favourites_count": 886,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": false,
@@ -12877,8 +13066,8 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 35,
-        "favorite_count": 11,
+        "retweet_count": 62,
+        "favorite_count": 22,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -12928,7 +13117,7 @@
         "possibly_sensitive": false,
         "lang": "ru"
       },
-      "retweet_count": 35,
+      "retweet_count": 62,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -13028,7 +13217,7 @@
       }
     },
     "protected": false,
-    "followers_count": 466,
+    "followers_count": 468,
     "friends_count": 260,
     "listed_count": 13,
     "created_at": "Fri Oct 14 11:43:46 +0000 2011",
@@ -13037,13 +13226,13 @@
     "time_zone": "Berlin",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 26732,
+    "statuses_count": 26737,
     "lang": "de",
     "status": {
-      "created_at": "Wed Jul 30 08:35:20 +0000 2014",
-      "id": 494400837910032400,
-      "id_str": "494400837910032385",
-      "text": "RT @StalinGulag: После объявления санкций в отношении России, рубль вырос на 0,5%, а российский фондовый рынок почти на 3%.\nА дайте еще сан…",
+      "created_at": "Wed Jul 30 08:54:09 +0000 2014",
+      "id": 494405575405731840,
+      "id_str": "494405575405731841",
+      "text": "RT @Dbnmjr: #путин изобрёл машину времени, которая способна перемещать страну только в прошлое. http://t.co/ks9EhPDttr",
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -13056,11 +13245,11 @@
       "place": null,
       "contributors": null,
       "retweeted_status": {
-        "created_at": "Wed Jul 30 07:44:24 +0000 2014",
-        "id": 494388021480144900,
-        "id_str": "494388021480144896",
-        "text": "После объявления санкций в отношении России, рубль вырос на 0,5%, а российский фондовый рынок почти на 3%.\nА дайте еще санкций, пожалуйста!",
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "created_at": "Wed Jul 30 08:48:34 +0000 2014",
+        "id": 494404171328913400,
+        "id_str": "494404171328913409",
+        "text": "#путин изобрёл машину времени, которая способна перемещать страну только в прошлое. http://t.co/ks9EhPDttr",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
         "truncated": false,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
@@ -13071,39 +13260,135 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 152,
-        "favorite_count": 102,
+        "retweet_count": 46,
+        "favorite_count": 5,
         "entities": {
-          "hashtags": [],
+          "hashtags": [
+            {
+              "text": "путин",
+              "indices": [
+                0,
+                6
+              ]
+            }
+          ],
           "symbols": [],
           "urls": [],
-          "user_mentions": []
+          "user_mentions": [],
+          "media": [
+            {
+              "id": 494404170149949440,
+              "id_str": "494404170149949441",
+              "indices": [
+                84,
+                106
+              ],
+              "media_url": "http://pbs.twimg.com/media/Btx5-SlCcAE1gfa.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Btx5-SlCcAE1gfa.jpg",
+              "url": "http://t.co/ks9EhPDttr",
+              "display_url": "pic.twitter.com/ks9EhPDttr",
+              "expanded_url": "http://twitter.com/Dbnmjr/status/494404171328913409/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 273,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 496,
+                  "h": 399,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 496,
+                  "h": 399,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
         },
         "favorited": false,
-        "retweeted": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
         "lang": "ru"
       },
-      "retweet_count": 152,
+      "retweet_count": 46,
       "favorite_count": 0,
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "путин",
+            "indices": [
+              12,
+              18
+            ]
+          }
+        ],
         "symbols": [],
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "StalinGulag",
-            "name": "Иосиф Сталин",
-            "id": 20905367,
-            "id_str": "20905367",
+            "screen_name": "Dbnmjr",
+            "name": "Новости Украины",
+            "id": 1436616650,
+            "id_str": "1436616650",
             "indices": [
               3,
-              15
+              10
             ]
+          }
+        ],
+        "media": [
+          {
+            "id": 494404170149949440,
+            "id_str": "494404170149949441",
+            "indices": [
+              96,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/Btx5-SlCcAE1gfa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Btx5-SlCcAE1gfa.jpg",
+            "url": "http://t.co/ks9EhPDttr",
+            "display_url": "pic.twitter.com/ks9EhPDttr",
+            "expanded_url": "http://twitter.com/Dbnmjr/status/494404171328913409/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 273,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 496,
+                "h": 399,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 496,
+                "h": 399,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 494404171328913400,
+            "source_status_id_str": "494404171328913409"
           }
         ]
       },
       "favorited": false,
-      "retweeted": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -13443,7 +13728,7 @@
     "friends_count": 103,
     "listed_count": 33,
     "created_at": "Mon Dec 21 20:02:39 +0000 2009",
-    "favourites_count": 1031,
+    "favourites_count": 1032,
     "utc_offset": 7200,
     "time_zone": "Berlin",
     "geo_enabled": true,
@@ -13466,8 +13751,8 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 2,
-      "favorite_count": 0,
+      "retweet_count": 3,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -13621,7 +13906,7 @@
       }
     },
     "protected": false,
-    "followers_count": 511,
+    "followers_count": 510,
     "friends_count": 218,
     "listed_count": 6,
     "created_at": "Fri Sep 09 12:16:32 +0000 2011",
@@ -13980,29 +14265,29 @@
       }
     },
     "protected": false,
-    "followers_count": 4193,
-    "friends_count": 4229,
+    "followers_count": 4192,
+    "friends_count": 4221,
     "listed_count": 37,
     "created_at": "Fri Jan 03 20:18:30 +0000 2014",
-    "favourites_count": 2894,
+    "favourites_count": 2895,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 30380,
+    "statuses_count": 30381,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:33:40 +0000 2014",
-      "id": 494400421331755000,
-      "id_str": "494400421331755008",
-      "text": "@IrinaWayreed: Чтобы девочки худели нужен секс, а не гантели... Эх, где мой тренажёрчик?...... http://t.co/EFlv2P8ikh\"",
+      "created_at": "Wed Jul 30 08:49:57 +0000 2014",
+      "id": 494404518277546000,
+      "id_str": "494404518277545984",
+      "text": "@xyevii_kharkov : Охуенная #манТра",
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": 2336077714,
-      "in_reply_to_user_id_str": "2336077714",
-      "in_reply_to_screen_name": "IrinaWayreed",
+      "in_reply_to_status_id": 494402604915376100,
+      "in_reply_to_status_id_str": "494402604915376128",
+      "in_reply_to_user_id": 2368693591,
+      "in_reply_to_user_id_str": "2368693591",
+      "in_reply_to_screen_name": "xyevii_kharkov",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -14010,65 +14295,32 @@
       "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "манТра",
+            "indices": [
+              27,
+              34
+            ]
+          }
+        ],
         "symbols": [],
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "IrinaWayreed",
-            "name": "Irina Wayreed",
-            "id": 2336077714,
-            "id_str": "2336077714",
+            "screen_name": "xyevii_kharkov",
+            "name": "Хуёвый Харьков",
+            "id": 2368693591,
+            "id_str": "2368693591",
             "indices": [
               0,
-              13
+              15
             ]
-          }
-        ],
-        "media": [
-          {
-            "id": 492610678688350200,
-            "id_str": "492610678688350209",
-            "indices": [
-              95,
-              117
-            ],
-            "media_url": "http://pbs.twimg.com/media/BtYazWPIgAENugx.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BtYazWPIgAENugx.jpg",
-            "url": "http://t.co/EFlv2P8ikh",
-            "display_url": "pic.twitter.com/EFlv2P8ikh",
-            "expanded_url": "http://twitter.com/IrinaWayreed/status/492610780119179264/photo/1",
-            "type": "photo",
-            "sizes": {
-              "medium": {
-                "w": 571,
-                "h": 571,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "small": {
-                "w": 340,
-                "h": 340,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 571,
-                "h": 571,
-                "resize": "fit"
-              }
-            },
-            "source_status_id": 492610780119179260,
-            "source_status_id_str": "492610780119179264"
           }
         ]
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -14107,7 +14359,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1317,
+    "followers_count": 1318,
     "friends_count": 120,
     "listed_count": 15,
     "created_at": "Wed May 21 09:18:54 +0000 2014",
@@ -14150,7 +14402,7 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 27,
+        "retweet_count": 28,
         "favorite_count": 2,
         "entities": {
           "hashtags": [],
@@ -14173,7 +14425,7 @@
         "possibly_sensitive": false,
         "lang": "uk"
       },
-      "retweet_count": 27,
+      "retweet_count": 28,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -14242,11 +14494,11 @@
       }
     },
     "protected": false,
-    "followers_count": 1492,
+    "followers_count": 1494,
     "friends_count": 109,
     "listed_count": 32,
     "created_at": "Tue May 20 09:51:29 +0000 2014",
-    "favourites_count": 602,
+    "favourites_count": 605,
     "utc_offset": 10800,
     "time_zone": "Athens",
     "geo_enabled": false,
@@ -14351,7 +14603,7 @@
       }
     },
     "protected": false,
-    "followers_count": 2027,
+    "followers_count": 2028,
     "friends_count": 107,
     "listed_count": 22,
     "created_at": "Tue Mar 04 11:34:30 +0000 2014",
@@ -14453,7 +14705,7 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 6,
+      "retweet_count": 7,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -14840,7 +15092,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1212,
+    "followers_count": 1210,
     "friends_count": 77,
     "listed_count": 21,
     "created_at": "Sat May 17 23:49:48 +0000 2014",
@@ -14849,13 +15101,13 @@
     "time_zone": null,
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 459,
+    "statuses_count": 460,
     "lang": "uk",
     "status": {
-      "created_at": "Wed Jul 30 08:25:31 +0000 2014",
-      "id": 494398368203161600,
-      "id_str": "494398368203161600",
-      "text": "Дурень думкою багатіє. http://t.co/UDHlizeA1y",
+      "created_at": "Wed Jul 30 08:42:15 +0000 2014",
+      "id": 494402582606282750,
+      "id_str": "494402582606282752",
+      "text": "http://t.co/78XWMbZBsA",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -14867,7 +15119,7 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 6,
+      "retweet_count": 3,
       "favorite_count": 1,
       "entities": {
         "hashtags": [],
@@ -14876,22 +15128,22 @@
         "user_mentions": [],
         "media": [
           {
-            "id": 494398367166783500,
-            "id_str": "494398367166783488",
+            "id": 494402581494374400,
+            "id_str": "494402581494374402",
             "indices": [
-              23,
-              45
+              0,
+              22
             ],
-            "media_url": "http://pbs.twimg.com/media/Btx0sgyCYAA47Nd.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Btx0sgyCYAA47Nd.jpg",
-            "url": "http://t.co/UDHlizeA1y",
-            "display_url": "pic.twitter.com/UDHlizeA1y",
-            "expanded_url": "http://twitter.com/xyevii_herson/status/494398368203161600/photo/1",
+            "media_url": "http://pbs.twimg.com/media/Btx4h0YCIAIhQvR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Btx4h0YCIAIhQvR.jpg",
+            "url": "http://t.co/78XWMbZBsA",
+            "display_url": "pic.twitter.com/78XWMbZBsA",
+            "expanded_url": "http://twitter.com/xyevii_herson/status/494402582606282752/photo/1",
             "type": "photo",
             "sizes": {
-              "large": {
-                "w": 604,
-                "h": 483,
+              "small": {
+                "w": 225,
+                "h": 364,
                 "resize": "fit"
               },
               "thumb": {
@@ -14900,13 +15152,13 @@
                 "resize": "crop"
               },
               "medium": {
-                "w": 600,
-                "h": 479,
+                "w": 225,
+                "h": 364,
                 "resize": "fit"
               },
-              "small": {
-                "w": 340,
-                "h": 271,
+              "large": {
+                "w": 225,
+                "h": 364,
                 "resize": "fit"
               }
             }
@@ -14914,9 +15166,9 @@
         ]
       },
       "favorited": false,
-      "retweeted": true,
+      "retweeted": false,
       "possibly_sensitive": false,
-      "lang": "uk"
+      "lang": "und"
     },
     "contributors_enabled": false,
     "is_translator": false,
@@ -15608,8 +15860,8 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 4,
-      "favorite_count": 2,
+      "retweet_count": 7,
+      "favorite_count": 3,
       "entities": {
         "hashtags": [
           {
@@ -15902,7 +16154,7 @@
       }
     },
     "protected": false,
-    "followers_count": 8563,
+    "followers_count": 8562,
     "friends_count": 362,
     "listed_count": 106,
     "created_at": "Fri Dec 09 14:09:47 +0000 2011",
@@ -15911,46 +16163,67 @@
     "time_zone": "Minsk",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 31726,
+    "statuses_count": 31733,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:36:35 +0000 2014",
-      "id": 494401155565240300,
-      "id_str": "494401155565240321",
-      "text": "Прекрасное. Посмотрите на дату http://t.co/UKiA6u32UV Это американцы хотят нас поссорить",
+      "created_at": "Wed Jul 30 08:51:08 +0000 2014",
+      "id": 494404817750482940,
+      "id_str": "494404817750482944",
+      "text": "@Roman_Yhnovec @maria_ukrainian https://t.co/7c1hjuRiDf",
       "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 494404668140060700,
+      "in_reply_to_status_id_str": "494404668140060672",
+      "in_reply_to_user_id": 227504543,
+      "in_reply_to_user_id_str": "227504543",
+      "in_reply_to_screen_name": "Roman_Yhnovec",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 2,
+      "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "urls": [
           {
-            "url": "http://t.co/UKiA6u32UV",
-            "expanded_url": "http://lrus1981.livejournal.com/81125.html",
-            "display_url": "lrus1981.livejournal.com/81125.html",
+            "url": "https://t.co/7c1hjuRiDf",
+            "expanded_url": "https://twitter.com/maria_ukrainian/status/494402861217099776",
+            "display_url": "twitter.com/maria_ukrainia…",
             "indices": [
-              31,
-              53
+              32,
+              55
             ]
           }
         ],
-        "user_mentions": []
+        "user_mentions": [
+          {
+            "screen_name": "Roman_Yhnovec",
+            "name": "Роман (ツ) Юхновец",
+            "id": 227504543,
+            "id_str": "227504543",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "maria_ukrainian",
+            "name": "Made in Ukraine",
+            "id": 485862598,
+            "id_str": "485862598",
+            "indices": [
+              15,
+              31
+            ]
+          }
+        ]
       },
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
-      "lang": "ru"
+      "lang": "und"
     },
     "contributors_enabled": false,
     "is_translator": false,
@@ -15997,25 +16270,53 @@
     "time_zone": "Athens",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 5275,
+    "statuses_count": 5277,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:04:33 +0000 2014",
-      "id": 494393094226591740,
-      "id_str": "494393094226591744",
-      "text": "@superumka есть такое дело: они так действительно стоят...",
+      "created_at": "Wed Jul 30 08:55:20 +0000 2014",
+      "id": 494405874862272500,
+      "id_str": "494405874862272513",
+      "text": "RT @e_styd: Плодожорка - новый враг Великой России.",
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
-      "in_reply_to_status_id": 494388744397393900,
-      "in_reply_to_status_id_str": "494388744397393920",
-      "in_reply_to_user_id": 106685396,
-      "in_reply_to_user_id_str": "106685396",
-      "in_reply_to_screen_name": "superumka",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 0,
+      "retweeted_status": {
+        "created_at": "Wed Jul 30 08:51:08 +0000 2014",
+        "id": 494404817356615700,
+        "id_str": "494404817356615680",
+        "text": "Плодожорка - новый враг Великой России.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -16023,12 +16324,12 @@
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "superumka",
-            "name": "Oksana Kovalenko",
-            "id": 106685396,
-            "id_str": "106685396",
+            "screen_name": "e_styd",
+            "name": "Ёбаный Стыд Today",
+            "id": 10712082,
+            "id_str": "10712082",
             "indices": [
-              0,
+              3,
               10
             ]
           }
@@ -16162,7 +16463,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1793,
+    "followers_count": 1794,
     "friends_count": 93,
     "listed_count": 24,
     "created_at": "Sun Jan 16 11:39:31 +0000 2011",
@@ -16205,8 +16506,8 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 47,
-        "favorite_count": 5,
+        "retweet_count": 49,
+        "favorite_count": 8,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -16217,7 +16518,7 @@
         "retweeted": false,
         "lang": "ru"
       },
-      "retweet_count": 47,
+      "retweet_count": 49,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -16853,7 +17154,7 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -17034,7 +17335,7 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 118,
+        "retweet_count": 124,
         "favorite_count": 4,
         "entities": {
           "hashtags": [],
@@ -17046,7 +17347,7 @@
         "retweeted": false,
         "lang": "ru"
       },
-      "retweet_count": 118,
+      "retweet_count": 124,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -17127,53 +17428,55 @@
     "time_zone": "Athens",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 8184,
+    "statuses_count": 8189,
     "lang": "en",
     "status": {
-      "created_at": "Wed Jul 30 08:09:17 +0000 2014",
-      "id": 494394284976914400,
-      "id_str": "494394284976914433",
-      "text": "Сводка #Луганск’ого горсовета: 1 погибший, 10 раненых за сутки http://t.co/p82y3hBc79",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "created_at": "Wed Jul 30 08:54:00 +0000 2014",
+      "id": 494405537539579900,
+      "id_str": "494405537539579905",
+      "text": "@echomskru @nataliches Никому не удавалось удовлетворить МИД РФ, вот и бесится.",
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 494317818985185300,
+      "in_reply_to_status_id_str": "494317818985185280",
+      "in_reply_to_user_id": 67838582,
+      "in_reply_to_user_id_str": "67838582",
+      "in_reply_to_screen_name": "EchoMskRu",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 2,
+      "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
-        "hashtags": [
-          {
-            "text": "Луганск",
-            "indices": [
-              7,
-              15
-            ]
-          }
-        ],
+        "hashtags": [],
         "symbols": [],
-        "urls": [
+        "urls": [],
+        "user_mentions": [
           {
-            "url": "http://t.co/p82y3hBc79",
-            "expanded_url": "http://gorod.lugansk.ua/index.php?newsid=25136",
-            "display_url": "gorod.lugansk.ua/index.php?news…",
+            "screen_name": "EchoMskRu",
+            "name": "Эхо Москвы",
+            "id": 67838582,
+            "id_str": "67838582",
             "indices": [
-              63,
-              85
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "NataliChes",
+            "name": "Натали",
+            "id": 2454262866,
+            "id_str": "2454262866",
+            "indices": [
+              11,
+              22
             ]
           }
-        ],
-        "user_mentions": []
+        ]
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -17225,29 +17528,29 @@
       }
     },
     "protected": false,
-    "followers_count": 11669,
+    "followers_count": 11671,
     "friends_count": 2111,
     "listed_count": 200,
     "created_at": "Mon Dec 05 07:18:59 +0000 2011",
-    "favourites_count": 5939,
+    "favourites_count": 5940,
     "utc_offset": 21600,
     "time_zone": "Almaty",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 61296,
+    "statuses_count": 61297,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:21:47 +0000 2014",
-      "id": 494397431099195400,
-      "id_str": "494397431099195393",
-      "text": "@iDnishe Ну может потом отдадут.",
+      "created_at": "Wed Jul 30 08:53:43 +0000 2014",
+      "id": 494405465842147300,
+      "id_str": "494405465842147328",
+      "text": "Путин - это Екатерина \"тушь из Амстердама\" Пархоменко, только планетарного масштаба. http://t.co/kEQ7FxMoQD",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 494397299112804350,
-      "in_reply_to_status_id_str": "494397299112804353",
-      "in_reply_to_user_id": 398519797,
-      "in_reply_to_user_id_str": "398519797",
-      "in_reply_to_screen_name": "iDnishe",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": {
@@ -17285,27 +17588,27 @@
         "attributes": {}
       },
       "contributors": null,
-      "retweet_count": 0,
-      "favorite_count": 0,
+      "retweet_count": 1,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "urls": [],
-        "user_mentions": [
+        "urls": [
           {
-            "screen_name": "iDnishe",
-            "name": "Днищеблогер.рф",
-            "id": 398519797,
-            "id_str": "398519797",
+            "url": "http://t.co/kEQ7FxMoQD",
+            "expanded_url": "http://petrimazepa.com/ua/iron-spine.html",
+            "display_url": "petrimazepa.com/ua/iron-spine.…",
             "indices": [
-              0,
-              8
+              85,
+              107
             ]
           }
-        ]
+        ],
+        "user_mentions": []
       },
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -17352,20 +17655,20 @@
     "time_zone": "Baghdad",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 1816,
+    "statuses_count": 1817,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 07:51:37 +0000 2014",
-      "id": 494389838465228800,
-      "id_str": "494389838465228800",
-      "text": "@superumka для штурмовых норм,польские за такую же сумму...",
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "created_at": "Wed Jul 30 08:41:05 +0000 2014",
+      "id": 494402288250015740,
+      "id_str": "494402288250015744",
+      "text": "@Ss_donetchina пиздец..",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 494388744397393900,
-      "in_reply_to_status_id_str": "494388744397393920",
-      "in_reply_to_user_id": 106685396,
-      "in_reply_to_user_id_str": "106685396",
-      "in_reply_to_screen_name": "superumka",
+      "in_reply_to_status_id": 494399234146570240,
+      "in_reply_to_status_id_str": "494399234146570240",
+      "in_reply_to_user_id": 2317007724,
+      "in_reply_to_user_id_str": "2317007724",
+      "in_reply_to_screen_name": "Ss_donetchina",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -17378,13 +17681,13 @@
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "superumka",
-            "name": "Oksana Kovalenko",
-            "id": 106685396,
-            "id_str": "106685396",
+            "screen_name": "Ss_donetchina",
+            "name": "ДОНЕЦКИЙ",
+            "id": 2317007724,
+            "id_str": "2317007724",
             "indices": [
               0,
-              10
+              14
             ]
           }
         ]
@@ -17456,7 +17759,7 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -17808,7 +18111,7 @@
       }
     },
     "protected": false,
-    "followers_count": 3144,
+    "followers_count": 3145,
     "friends_count": 112,
     "listed_count": 45,
     "created_at": "Sun May 04 07:32:59 +0000 2014",
@@ -18331,7 +18634,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1974,
+    "followers_count": 1975,
     "friends_count": 541,
     "listed_count": 37,
     "created_at": "Tue May 13 17:38:45 +0000 2014",
@@ -18467,7 +18770,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1553,
+    "followers_count": 1554,
     "friends_count": 234,
     "listed_count": 27,
     "created_at": "Sun May 04 10:33:29 +0000 2014",
@@ -18476,25 +18779,92 @@
     "time_zone": "Baghdad",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 3768,
+    "statuses_count": 3774,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:32:51 +0000 2014",
-      "id": 494400216117030900,
-      "id_str": "494400216117030912",
-      "text": "@Mayasha_Alex хуева мода,пробздилось шось у Дацькому князивстви..\nда не логично же...а аутистов с их предсказаниями и так хватает))",
+      "created_at": "Wed Jul 30 08:54:03 +0000 2014",
+      "id": 494405552471277600,
+      "id_str": "494405552471277568",
+      "text": "RT @lifenews_ru: Наркоманы уезжают из Крыма в Киев и Днепропетровск в поисках метадона http://t.co/d6vNav0xf2",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": 494399461180080100,
-      "in_reply_to_status_id_str": "494399461180080128",
-      "in_reply_to_user_id": 1625498414,
-      "in_reply_to_user_id_str": "1625498414",
-      "in_reply_to_screen_name": "Mayasha_Alex",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 1,
+      "retweeted_status": {
+        "created_at": "Wed Jul 30 08:53:25 +0000 2014",
+        "id": 494405393112911900,
+        "id_str": "494405393112911872",
+        "text": "Наркоманы уезжают из Крыма в Киев и Днепропетровск в поисках метадона http://t.co/d6vNav0xf2",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 24,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [],
+          "media": [
+            {
+              "id": 494405391464558600,
+              "id_str": "494405391464558592",
+              "indices": [
+                70,
+                92
+              ],
+              "media_url": "http://pbs.twimg.com/media/Btx7FYVIcAAJEF4.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Btx7FYVIcAAJEF4.jpg",
+              "url": "http://t.co/d6vNav0xf2",
+              "display_url": "pic.twitter.com/d6vNav0xf2",
+              "expanded_url": "http://twitter.com/lifenews_ru/status/494405393112911872/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 600,
+                  "h": 450,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 255,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 700,
+                  "h": 525,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "ru"
+      },
+      "retweet_count": 24,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
@@ -18502,19 +18872,60 @@
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "Mayasha_Alex",
-            "name": "Майя",
-            "id": 1625498414,
-            "id_str": "1625498414",
+            "screen_name": "lifenews_ru",
+            "name": "LIFENEWS",
+            "id": 53016173,
+            "id_str": "53016173",
             "indices": [
-              0,
-              13
+              3,
+              15
             ]
+          }
+        ],
+        "media": [
+          {
+            "id": 494405391464558600,
+            "id_str": "494405391464558592",
+            "indices": [
+              87,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/Btx7FYVIcAAJEF4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Btx7FYVIcAAJEF4.jpg",
+            "url": "http://t.co/d6vNav0xf2",
+            "display_url": "pic.twitter.com/d6vNav0xf2",
+            "expanded_url": "http://twitter.com/lifenews_ru/status/494405393112911872/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 525,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 494405393112911900,
+            "source_status_id_str": "494405393112911872"
           }
         ]
       },
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -18594,7 +19005,7 @@
       "place": null,
       "contributors": null,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -18716,7 +19127,7 @@
       }
     },
     "protected": false,
-    "followers_count": 1908,
+    "followers_count": 1907,
     "friends_count": 97,
     "listed_count": 37,
     "created_at": "Thu May 15 20:32:04 +0000 2014",
@@ -18904,26 +19315,26 @@
       }
     },
     "protected": false,
-    "followers_count": 2504,
-    "friends_count": 64,
+    "followers_count": 2506,
+    "friends_count": 65,
     "listed_count": 27,
     "created_at": "Sat May 17 16:40:59 +0000 2014",
-    "favourites_count": 185,
+    "favourites_count": 187,
     "utc_offset": 10800,
     "time_zone": "Kyiv",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 2244,
+    "statuses_count": 2246,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:37:26 +0000 2014",
-      "id": 494401367306666000,
-      "id_str": "494401367306665984",
-      "text": "@tombreadley Ухты... Сам не видел - где такое поглазеть?!",
+      "created_at": "Wed Jul 30 08:45:11 +0000 2014",
+      "id": 494403319461589000,
+      "id_str": "494403319461588992",
+      "text": "@tombreadley О - вот по этой фотке понятней ))",
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "truncated": false,
-      "in_reply_to_status_id": 494397942610939900,
-      "in_reply_to_status_id_str": "494397942610939905",
+      "in_reply_to_status_id": 494402859086381060,
+      "in_reply_to_status_id_str": "494402859086381056",
       "in_reply_to_user_id": 501829485,
       "in_reply_to_user_id_str": "501829485",
       "in_reply_to_screen_name": "tombreadley",
@@ -18932,7 +19343,7 @@
       "place": null,
       "contributors": null,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -18990,22 +19401,22 @@
       }
     },
     "protected": false,
-    "followers_count": 10328,
+    "followers_count": 10330,
     "friends_count": 235,
     "listed_count": 117,
     "created_at": "Fri Feb 24 14:33:32 +0000 2012",
-    "favourites_count": 2508,
+    "favourites_count": 2510,
     "utc_offset": null,
     "time_zone": null,
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 6463,
+    "statuses_count": 6466,
     "lang": "en",
     "status": {
-      "created_at": "Wed Jul 30 08:33:18 +0000 2014",
-      "id": 494400328448876540,
-      "id_str": "494400328448876544",
-      "text": "Может вы уже в курсе, но расскажу. Олеся Жуковская поступила в мединститут Богомольца. Жизнь - невероятная штука.) http://t.co/G4dhYfHBbL",
+      "created_at": "Wed Jul 30 08:55:12 +0000 2014",
+      "id": 494405841806966800,
+      "id_str": "494405841806966784",
+      "text": "Азов и ЗСУ наступают в районе Нового Света. Цель: взять под контроль весь Старобешевский р-н. В район Вознесенки долбит Град терроров.",
       "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -19017,55 +19428,16 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 26,
-      "favorite_count": 7,
+      "retweet_count": 0,
+      "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
         "urls": [],
-        "user_mentions": [],
-        "media": [
-          {
-            "id": 494400326703652860,
-            "id_str": "494400326703652864",
-            "indices": [
-              115,
-              137
-            ],
-            "media_url": "http://pbs.twimg.com/media/Btx2ekoCIAAEASQ.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Btx2ekoCIAAEASQ.jpg",
-            "url": "http://t.co/G4dhYfHBbL",
-            "display_url": "pic.twitter.com/G4dhYfHBbL",
-            "expanded_url": "http://twitter.com/tombreadley/status/494400328448876544/photo/1",
-            "type": "photo",
-            "sizes": {
-              "large": {
-                "w": 640,
-                "h": 481,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 600,
-                "h": 450,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "small": {
-                "w": 340,
-                "h": 255,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
+        "user_mentions": []
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -19113,13 +19485,13 @@
     "time_zone": "Minsk",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 9950,
+    "statuses_count": 9951,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:29:36 +0000 2014",
-      "id": 494399397309186050,
-      "id_str": "494399397309186048",
-      "text": "RT @adnashmyash: Как \"милиция\" #мариуполь была с \"народом\". Не похоже что они мучились, напяливая на себя ленты. #ДНР #АТО http://t.co/QrgA…",
+      "created_at": "Wed Jul 30 08:47:22 +0000 2014",
+      "id": 494403869225795600,
+      "id_str": "494403869225795584",
+      "text": "RT @EnduringWinter: Hear the new #REDJUMPSUIT #MockingJay song?!? RETWEET if your feelin it! :D @TheHungerGames @MTV http://t.co/48xLJvWvG5",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -19132,11 +19504,11 @@
       "place": null,
       "contributors": null,
       "retweeted_status": {
-        "created_at": "Mon Jul 28 20:03:56 +0000 2014",
-        "id": 493849355271819260,
-        "id_str": "493849355271819264",
-        "text": "Как \"милиция\" #мариуполь была с \"народом\". Не похоже что они мучились, напяливая на себя ленты. #ДНР #АТО http://t.co/QrgAkJ93BX",
-        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "created_at": "Wed Jul 30 02:06:38 +0000 2014",
+        "id": 494303021103202300,
+        "id_str": "494303021103202307",
+        "text": "Hear the new #REDJUMPSUIT #MockingJay song?!? RETWEET if your feelin it! :D @TheHungerGames @MTV http://t.co/48xLJvWvG5",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "truncated": false,
         "in_reply_to_status_id": null,
         "in_reply_to_status_id_str": null,
@@ -19147,164 +19519,133 @@
         "coordinates": null,
         "place": null,
         "contributors": null,
-        "retweet_count": 61,
-        "favorite_count": 0,
+        "retweet_count": 1016,
+        "favorite_count": 8,
         "entities": {
           "hashtags": [
             {
-              "text": "мариуполь",
+              "text": "REDJUMPSUIT",
               "indices": [
-                14,
-                24
+                13,
+                25
               ]
             },
             {
-              "text": "ДНР",
+              "text": "MockingJay",
               "indices": [
-                96,
-                100
-              ]
-            },
-            {
-              "text": "АТО",
-              "indices": [
-                101,
-                105
+                26,
+                37
               ]
             }
           ],
           "symbols": [],
-          "urls": [],
-          "user_mentions": [],
-          "media": [
+          "urls": [
             {
-              "id": 493849353501818900,
-              "id_str": "493849353501818880",
+              "url": "http://t.co/48xLJvWvG5",
+              "expanded_url": "http://youtu.be/Rds6kZEn09M",
+              "display_url": "youtu.be/Rds6kZEn09M",
               "indices": [
-                106,
-                128
-              ],
-              "media_url": "http://pbs.twimg.com/media/BtqBXtgIQAAMd05.jpg",
-              "media_url_https": "https://pbs.twimg.com/media/BtqBXtgIQAAMd05.jpg",
-              "url": "http://t.co/QrgAkJ93BX",
-              "display_url": "pic.twitter.com/QrgAkJ93BX",
-              "expanded_url": "http://twitter.com/adnashmyash/status/493849355271819264/photo/1",
-              "type": "photo",
-              "sizes": {
-                "medium": {
-                  "w": 600,
-                  "h": 450,
-                  "resize": "fit"
-                },
-                "large": {
-                  "w": 1024,
-                  "h": 768,
-                  "resize": "fit"
-                },
-                "thumb": {
-                  "w": 150,
-                  "h": 150,
-                  "resize": "crop"
-                },
-                "small": {
-                  "w": 340,
-                  "h": 255,
-                  "resize": "fit"
-                }
-              }
+                97,
+                119
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "TheHungerGames",
+              "name": "Mockingjay - Part 1",
+              "id": 227390518,
+              "id_str": "227390518",
+              "indices": [
+                76,
+                91
+              ]
+            },
+            {
+              "screen_name": "MTV",
+              "name": "MTV",
+              "id": 2367911,
+              "id_str": "2367911",
+              "indices": [
+                92,
+                96
+              ]
             }
           ]
         },
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
-        "lang": "ru"
+        "lang": "en"
       },
-      "retweet_count": 61,
+      "retweet_count": 1016,
       "favorite_count": 0,
       "entities": {
         "hashtags": [
           {
-            "text": "мариуполь",
+            "text": "REDJUMPSUIT",
             "indices": [
-              31,
-              41
+              33,
+              45
             ]
           },
           {
-            "text": "ДНР",
+            "text": "MockingJay",
             "indices": [
-              113,
-              117
-            ]
-          },
-          {
-            "text": "АТО",
-            "indices": [
-              118,
-              122
+              46,
+              57
             ]
           }
         ],
         "symbols": [],
-        "urls": [],
-        "user_mentions": [
+        "urls": [
           {
-            "screen_name": "adnashmyash",
-            "name": "Адъ нашъ!",
-            "id": 2528195210,
-            "id_str": "2528195210",
+            "url": "http://t.co/48xLJvWvG5",
+            "expanded_url": "http://youtu.be/Rds6kZEn09M",
+            "display_url": "youtu.be/Rds6kZEn09M",
             "indices": [
-              3,
-              15
+              117,
+              139
             ]
           }
         ],
-        "media": [
+        "user_mentions": [
           {
-            "id": 493849353501818900,
-            "id_str": "493849353501818880",
+            "screen_name": "EnduringWinter",
+            "name": "Randy Winter",
+            "id": 498756236,
+            "id_str": "498756236",
             "indices": [
-              139,
-              140
-            ],
-            "media_url": "http://pbs.twimg.com/media/BtqBXtgIQAAMd05.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/BtqBXtgIQAAMd05.jpg",
-            "url": "http://t.co/QrgAkJ93BX",
-            "display_url": "pic.twitter.com/QrgAkJ93BX",
-            "expanded_url": "http://twitter.com/adnashmyash/status/493849355271819264/photo/1",
-            "type": "photo",
-            "sizes": {
-              "medium": {
-                "w": 600,
-                "h": 450,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 1024,
-                "h": 768,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "small": {
-                "w": 340,
-                "h": 255,
-                "resize": "fit"
-              }
-            },
-            "source_status_id": 493849355271819260,
-            "source_status_id_str": "493849355271819264"
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "TheHungerGames",
+            "name": "Mockingjay - Part 1",
+            "id": 227390518,
+            "id_str": "227390518",
+            "indices": [
+              96,
+              111
+            ]
+          },
+          {
+            "screen_name": "MTV",
+            "name": "MTV",
+            "id": 2367911,
+            "id_str": "2367911",
+            "indices": [
+              112,
+              116
+            ]
           }
         ]
       },
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
-      "lang": "ru"
+      "lang": "en"
     },
     "contributors_enabled": false,
     "is_translator": false,
@@ -19721,7 +20062,7 @@
       }
     },
     "protected": false,
-    "followers_count": 15851,
+    "followers_count": 15852,
     "friends_count": 87,
     "listed_count": 196,
     "created_at": "Sun Mar 02 10:38:09 +0000 2014",
@@ -20164,13 +20505,13 @@
     "time_zone": "Baghdad",
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 4609,
+    "statuses_count": 4610,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 08:36:26 +0000 2014",
-      "id": 494401118768992260,
-      "id_str": "494401118768992256",
-      "text": "RT @UkrCrimea: Такое можно увидеть в центре занятости в Симферополе. Скоро на всех подъездах. http://t.co/vnekYfazAx",
+      "created_at": "Wed Jul 30 08:41:17 +0000 2014",
+      "id": 494402338422292500,
+      "id_str": "494402338422292480",
+      "text": "\"@gazetaua_twit: Коломойський продав бронежилетів і касок на 55, 3 мільйона гривень ► http://t.co/ziwTDXs9U0\"\n\nБроники 5 класса за 18к?!",
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "truncated": false,
       "in_reply_to_status_id": null,
@@ -20182,136 +20523,39 @@
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweeted_status": {
-        "created_at": "Wed Jul 30 08:02:35 +0000 2014",
-        "id": 494392599516811260,
-        "id_str": "494392599516811264",
-        "text": "Такое можно увидеть в центре занятости в Симферополе. Скоро на всех подъездах. http://t.co/vnekYfazAx",
-        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-        "truncated": false,
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": null,
-        "in_reply_to_user_id_str": null,
-        "in_reply_to_screen_name": null,
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "retweet_count": 139,
-        "favorite_count": 27,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "urls": [],
-          "user_mentions": [],
-          "media": [
-            {
-              "id": 494392598253932540,
-              "id_str": "494392598253932545",
-              "indices": [
-                79,
-                101
-              ],
-              "media_url": "http://pbs.twimg.com/media/Btxvct6CEAEYJW0.jpg",
-              "media_url_https": "https://pbs.twimg.com/media/Btxvct6CEAEYJW0.jpg",
-              "url": "http://t.co/vnekYfazAx",
-              "display_url": "pic.twitter.com/vnekYfazAx",
-              "expanded_url": "http://twitter.com/UkrCrimea/status/494392599516811264/photo/1",
-              "type": "photo",
-              "sizes": {
-                "small": {
-                  "w": 340,
-                  "h": 455,
-                  "resize": "fit"
-                },
-                "thumb": {
-                  "w": 150,
-                  "h": 150,
-                  "resize": "crop"
-                },
-                "large": {
-                  "w": 717,
-                  "h": 960,
-                  "resize": "fit"
-                },
-                "medium": {
-                  "w": 600,
-                  "h": 803,
-                  "resize": "fit"
-                }
-              }
-            }
-          ]
-        },
-        "favorited": false,
-        "retweeted": true,
-        "possibly_sensitive": false,
-        "lang": "ru"
-      },
-      "retweet_count": 139,
-      "favorite_count": 0,
+      "retweet_count": 3,
+      "favorite_count": 1,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "urls": [],
-        "user_mentions": [
+        "urls": [
           {
-            "screen_name": "UkrCrimea",
-            "name": "Крымский апокалипсис",
-            "id": 2539463131,
-            "id_str": "2539463131",
+            "url": "http://t.co/ziwTDXs9U0",
+            "expanded_url": "http://gazeta.ua/articles/politics/_kolomojskij-prodav-bronezhiletiv-i-kasok-na-55-3-miljona-griven/572463",
+            "display_url": "gazeta.ua/articles/polit…",
             "indices": [
-              3,
-              13
+              86,
+              108
             ]
           }
         ],
-        "media": [
+        "user_mentions": [
           {
-            "id": 494392598253932540,
-            "id_str": "494392598253932545",
+            "screen_name": "gazetaua_twit",
+            "name": "Gazeta.Ua",
+            "id": 166123897,
+            "id_str": "166123897",
             "indices": [
-              94,
-              116
-            ],
-            "media_url": "http://pbs.twimg.com/media/Btxvct6CEAEYJW0.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Btxvct6CEAEYJW0.jpg",
-            "url": "http://t.co/vnekYfazAx",
-            "display_url": "pic.twitter.com/vnekYfazAx",
-            "expanded_url": "http://twitter.com/UkrCrimea/status/494392599516811264/photo/1",
-            "type": "photo",
-            "sizes": {
-              "small": {
-                "w": 340,
-                "h": 455,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 717,
-                "h": 960,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 600,
-                "h": 803,
-                "resize": "fit"
-              }
-            },
-            "source_status_id": 494392599516811260,
-            "source_status_id_str": "494392599516811264"
+              1,
+              15
+            ]
           }
         ]
       },
       "favorited": false,
-      "retweeted": true,
+      "retweeted": false,
       "possibly_sensitive": false,
-      "lang": "ru"
+      "lang": "uk"
     },
     "contributors_enabled": false,
     "is_translator": false,
@@ -20357,20 +20601,20 @@
     "time_zone": null,
     "geo_enabled": true,
     "verified": false,
-    "statuses_count": 5674,
+    "statuses_count": 5676,
     "lang": "ru",
     "status": {
-      "created_at": "Wed Jul 30 07:51:34 +0000 2014",
-      "id": 494389825882312700,
-      "id_str": "494389825882312704",
-      "text": "@pakhor ок))))",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "created_at": "Wed Jul 30 08:48:50 +0000 2014",
+      "id": 494404239490551800,
+      "id_str": "494404239490551808",
+      "text": "@Streptocid на фото настоящие любители прям)))",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
       "truncated": false,
-      "in_reply_to_status_id": 494389554850562050,
-      "in_reply_to_status_id_str": "494389554850562048",
-      "in_reply_to_user_id": 19421222,
-      "in_reply_to_user_id_str": "19421222",
-      "in_reply_to_screen_name": "pakhor",
+      "in_reply_to_status_id": 494403885159952400,
+      "in_reply_to_status_id_str": "494403885159952384",
+      "in_reply_to_user_id": 242415549,
+      "in_reply_to_user_id_str": "242415549",
+      "in_reply_to_screen_name": "Streptocid",
       "geo": null,
       "coordinates": null,
       "place": null,
@@ -20383,13 +20627,13 @@
         "urls": [],
         "user_mentions": [
           {
-            "screen_name": "pakhor",
-            "name": "Pavel Kharitonov",
-            "id": 19421222,
-            "id_str": "19421222",
+            "screen_name": "Streptocid",
+            "name": "Влад.",
+            "id": 242415549,
+            "id_str": "242415549",
             "indices": [
               0,
-              7
+              11
             ]
           }
         ]
@@ -20443,56 +20687,55 @@
     "time_zone": "Baghdad",
     "geo_enabled": false,
     "verified": false,
-    "statuses_count": 3700,
+    "statuses_count": 3702,
     "lang": "ro",
     "status": {
-      "created_at": "Wed Jul 30 08:27:52 +0000 2014",
-      "id": 494398962359881700,
-      "id_str": "494398962359881728",
-      "text": "Интересная статья по Молдове\n\n@rciorici Почему Россия теряет влияние в Молдове http://t.co/g3t8JJy2ag",
+      "created_at": "Wed Jul 30 08:51:34 +0000 2014",
+      "id": 494404924089045000,
+      "id_str": "494404924089044992",
+      "text": "@pskoryk @rciorici всей семьей",
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": 494402971669909500,
+      "in_reply_to_status_id_str": "494402971669909504",
+      "in_reply_to_user_id": 544302788,
+      "in_reply_to_user_id_str": "544302788",
+      "in_reply_to_screen_name": "pskoryk",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
-      "retweet_count": 2,
+      "retweet_count": 0,
       "favorite_count": 0,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "urls": [
-          {
-            "url": "http://t.co/g3t8JJy2ag",
-            "expanded_url": "http://furtuna.md/?p=148",
-            "display_url": "furtuna.md/?p=148",
-            "indices": [
-              79,
-              101
-            ]
-          }
-        ],
+        "urls": [],
         "user_mentions": [
+          {
+            "screen_name": "pskoryk",
+            "name": "Хуёвая Троещина",
+            "id": 544302788,
+            "id_str": "544302788",
+            "indices": [
+              0,
+              8
+            ]
+          },
           {
             "screen_name": "rciorici",
             "name": "RC (+18)",
             "id": 29652896,
             "id_str": "29652896",
             "indices": [
-              30,
-              39
+              9,
+              18
             ]
           }
         ]
       },
       "favorited": false,
       "retweeted": false,
-      "possibly_sensitive": false,
       "lang": "ru"
     },
     "contributors_enabled": false,
@@ -20852,7 +21095,7 @@
       }
     },
     "protected": false,
-    "followers_count": 11157,
+    "followers_count": 11158,
     "friends_count": 212,
     "listed_count": 139,
     "created_at": "Tue May 06 20:33:20 +0000 2014",
@@ -21207,7 +21450,7 @@
       }
     },
     "protected": false,
-    "followers_count": 5476,
+    "followers_count": 5478,
     "friends_count": 354,
     "listed_count": 67,
     "created_at": "Fri May 16 06:12:07 +0000 2014",
