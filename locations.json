@@ -973,5 +973,15 @@
     "name": "Хуйове Запоріжжя",
     "screen_name": "hu_Zaporizhzhya",
     "location": "Запорожье, Украина"
+  },
+  "hu_pozniaky": {
+    "name": "Хуёвые Позняки",
+    "screen_name": "hu_pozniaky",
+    "location": "Позняки, Киев, Украина"
+  },
+  "EdGoroshochok": {
+    "name": "Хуёвый Інформатор",
+    "screen_name": "EdGoroshochok",
+    "location": "Дарницкий район, Киев, Украина"
   }
 }
