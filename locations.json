@@ -988,5 +988,20 @@
     "name": "Хуёвый СовБез",
     "screen_name": "kryganoff",
     "location": "Красноград, Харьковская область, Украина"
+  },
+  "lukakunagilaku": {
+    "name": "Хуевый Слуцк",
+    "screen_name": "lukakunagilaku",
+    "location": "Слуцк, Беларусь"
+  },
+  "star_dED": {
+    "name": "Хуёвый Інформатор",
+    "screen_name": "star_dED",
+    "location": "Дарницкий район, Киев, Украина"
+  },
+  "HueviSimferopol": {
+    "name": "Хуёвый Симферополь",
+    "screen_name": "HueviSimferopol",
+    "location": "Симферополь, Крым"
   }
 }
