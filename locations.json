@@ -1003,5 +1003,20 @@
     "name": "Хуёвый Симферополь",
     "screen_name": "HueviSimferopol",
     "location": "Симферополь, Крым"
+  },
+  "antivatnik": {
+    "name": "ХуЁвыйВовка",
+    "screen_name": "antivatnik",
+    "location": "ул. Котлова, Харьков, Украина"
+  },
+  "hu_refugee": {
+    "name": "Хуевый беженец",
+    "screen_name": "hu_refugee",
+    "location": "Луганск, Украина"
+  },
+  "whotiraspol": {
+    "name": "Хуевый Тирасполь",
+    "screen_name": "whotiraspol",
+    "location": "Тирасполь, Молдова"
   }
 }
