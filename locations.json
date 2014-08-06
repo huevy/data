@@ -2,7 +2,7 @@
   "349870": {
     "name": "Хуёвое Рубежное",
     "screen_name": "349870",
-    "location": "TODO!!!"
+    "location": "Рубежное, Луганская область, Украина"
   },
   "norestfor": {
     "name": "Хуёвая Луганда",
@@ -1018,5 +1018,40 @@
     "name": "Хуевый Тирасполь",
     "screen_name": "whotiraspol",
     "location": "Тирасполь, Молдова"
+  },
+  "charoit2121": {
+    "name": "Хуёвый Сикелёв",
+    "screen_name": "charoit2121",
+    "location": "Москва, Россия"
+  },
+  "IwanTuareg": {
+    "name": "Хуевый Алжир",
+    "screen_name": "IwanTuareg",
+    "location": "Ин-Салах, Алжир"
+  },
+  "alsage9419": {
+    "name": "Хуёвая Марковщина",
+    "screen_name": "alsage9419",
+    "location": "Марковщина, Минская область, Беларусь"
+  },
+  "taki_xye": {
+    "name": "ХуЕвЫй Ильичевск",
+    "screen_name": "taki_xye",
+    "location": "Ильичевск, Одесская область, Украина"
+  },
+  "H_vesty_iz_RF": {
+    "name": "Хуйовые Вести из РФ",
+    "screen_name": "H_vesty_iz_RF",
+    "location": "Москва, Россия"
+  },
+  "her_herson": {
+    "name": "Хуевый Херсон",
+    "screen_name": "her_herson",
+    "location": "Херсон, Украина"
+  },
+  "nehu_roo": {
+    "name": "неХуёвая Australia",
+    "screen_name": "nehu_roo",
+    "location": "Мельбурн, Австралия"
   }
 }
