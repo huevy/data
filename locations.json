@@ -1063,5 +1063,30 @@
     "name": "неХуёвая Румыния ",
     "screen_name": "dacoromania",
     "location": "Бухарест, Румыния"
+  },
+  "Popasnaya_today": {
+    "name": "Хуёвая Попасная",
+    "screen_name": "Popasnaya_today",
+    "location": "Попасная, Луганская область, Украина"
+  },
+  "xuzhgorod": {
+    "name": "Хуйовий Ужгород",
+    "screen_name": "xuzhgorod",
+    "location": "Ужгород, Украина"
+  },
+  "hu_ungvar": {
+    "name": "неХуёвый Ужгород",
+    "screen_name": "hu_ungvar",
+    "location": "Ужгород, Украина"
+  },
+  "BodrovJ": {
+    "name": "Хуйовий Charlton",
+    "screen_name": "BodrovJ",
+    "location": "Charlton, MA"
+  },
+  "lugandon_com": {
+    "name": "Лугандон-ньюс",
+    "screen_name": "lugandon_com",
+    "location": "Луганск, Украина"
   }
 }
