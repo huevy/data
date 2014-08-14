@@ -1088,5 +1088,20 @@
     "name": "Лугандон-ньюс",
     "screen_name": "lugandon_com",
     "location": "Луганск, Украина"
+  },
+  "anar1257": {
+    "name": "Хуёвый Баку",
+    "screen_name": "anar1257",
+    "location": "Баку, Азербайджан"
+  },
+  "antratsitukr": {
+    "name": "Хуевый Антрацит",
+    "screen_name": "antratsitukr",
+    "location": "Антрацит, Луганская область, Украина"
+  },
+  "Nyashh_Myash": {
+    "name": "Хуёвый Няш-Мяш",
+    "screen_name": "Nyashh_Myash",
+    "location": "Симферополь, Крым"
   }
 }
