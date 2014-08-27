@@ -1103,5 +1103,25 @@
     "name": "Хуёвый Няш-Мяш",
     "screen_name": "Nyashh_Myash",
     "location": "Симферополь, Крым"
+  },
+  "SvalyaO": {
+    "name": "Xy@ve Zakarpattya",
+    "screen_name": "SvalyaO",
+    "location": "Свалява, Закарпатская область, Украина"
+  },
+  "artjushok": {
+    "name": "Хуевый Краснодар",
+    "screen_name": "artjushok",
+    "location": "Краснодар, Россия"
+  },
+  "ukrudnyk": {
+    "name": "Селезнівський рудник",
+    "screen_name": "Перевальск, Луганская область, Украина",
+    "location": "TODO!!!"
+  },
+  "violent_entropy": {
+    "name": "Violent Entropy",
+    "screen_name": "violent_entropy",
+    "location": "Николаев, Украина"
   }
 }
