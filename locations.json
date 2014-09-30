@@ -1123,5 +1123,20 @@
     "name": "Violent Entropy",
     "screen_name": "violent_entropy",
     "location": "Николаев, Украина"
+  },
+  "Gavvoz": {
+    "name": "Хуёвый Вознесенск",
+    "screen_name": "Gavvoz",
+    "location": "Вознесенск, Николаевская область, Украина"
+  },
+  "huzhgorod": {
+    "name": "Хуёвый Ужгород",
+    "screen_name": "huzhgorod",
+    "location": "Ужгород, Украина"
+  },
+  "FuckingYalta": {
+    "name": "Fucking Yalta",
+    "screen_name": "FuckingYalta",
+    "location": "Ялта, Крым"
   }
 }
