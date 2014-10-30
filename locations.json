@@ -1138,5 +1138,35 @@
     "name": "Fucking Yalta",
     "screen_name": "FuckingYalta",
     "location": "Ялта, Крым"
+  },
+  "Kakskotinovka": {
+    "name": "ХуёваяКонстантиновка",
+    "screen_name": "Kakskotinovka",
+    "location": "Константиновка, Донецкая область"
+  },
+  "ProkyrorCrimea": {
+    "name": "Прокурор Крыма",
+    "screen_name": "ProkyrorCrimea",
+    "location": "Симферополь, Крым"
+  },
+  "fuckingtiraspol": {
+    "name": "Хероватый Тiрасполь",
+    "screen_name": "fuckingtiraspol",
+    "location": "Тирасполь, Молдова"
+  },
+  "Zh_ukrop": {
+    "name": "Хуйова Житомирщина",
+    "screen_name": "Zh_ukrop",
+    "location": "Житомир, Украина"
+  },
+  "Hueviy_New_York": {
+    "name": "Хуёвый Нью-Йорк",
+    "screen_name": "Hueviy_New_York",
+    "location": "Нью-Йорк, США"
+  },
+  "CyborgsBride": {
+    "name": "  विदेशी Annunak ",
+    "screen_name": "CyborgsBride",
+    "location": "Тибетский автономный район, Китай"
   }
 }
