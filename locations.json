@@ -1168,5 +1168,25 @@
     "name": "  विदेशी Annunak ",
     "screen_name": "CyborgsBride",
     "location": "Тибетский автономный район, Китай"
+  },
+  "patriotbelarus": {
+    "name": "Хуевый Слуцк",
+    "screen_name": "patriotbelarus",
+    "location": "Слуцк, Беларусь"
+  },
+  "finesever": {
+    "name": "Файний Сєвєродонецьк",
+    "screen_name": "finesever",
+    "location": "Северодонецк, Луганская область, Украина"
+  },
+  "Sel_UA": {
+    "name": "Селезнівськи́й!",
+    "screen_name": "Sel_UA",
+    "location": "Селезневка, Донецкая область"
+  },
+  "xy_pravda": {
+    "name": "уевая Правда",
+    "screen_name": "xy_pravda",
+    "location": "Рим, Италия"
   }
 }
